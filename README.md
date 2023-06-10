@@ -151,4 +151,6 @@ Windows 10/11 settings
 ### Hone cntrl
 
 [Hone](https://github.com/auraside/HoneCtrl) Another tool that's pretty popular amoung the MC crowd and valorant 
+For Hone i would run these general safe settings which can be seen [here](https://github.com/luke-beep/guide-to-optimizing-windows/blob/main/docs/HONE.md)
 
+If you want to go full ham with with hone settings you can copy everythig this guy has turn on in this [video](https://youtu.be/hl2SIMnWW5A?t=69) generally i dont think you should be but its up to you what you want to do
