@@ -191,8 +191,7 @@ Then head over to the updates tab and select the middle option "security"
 
 
 ### Optimizer
-[Optimizer](https://github.com/hellzerg/optimizer) Overall this tool i think is the best to run on its own and just be done at that "optimisation" for your PC this is a widely used tool
-These are the settings I would run for the program.
+[Optimizer](https://github.com/hellzerg/optimizer) Overall this tool i think is the best to run on its own and just be done at that it does a bit of what CTT tool does and abit more so for the MIN MAX gamers would say to use this tool and be done with ur pc setup
 
 General tab settings
 ![image](https://github.com/Tungrad/BDO/assets/126987283/4b807195-9d84-4c2a-9a2d-2f73f5318b79)
