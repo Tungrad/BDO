@@ -142,7 +142,7 @@ open regedit and  go to this reg directory at the top - Computer\HKEY_LOCAL_MACH
 change the value to the ranges listed in the post, you do not need to restart for this to take effect, so for example defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best
 here is a list of the ranges 
 
-` 2A Hex = Short, Fixed , High foreground boost.
+``` 2A Hex = Short, Fixed , High foreground boost.
 29 Hex = Short, Fixed , Medium foreground boost.
 28 Hex = Short, Fixed , No foreground boost.
 
@@ -156,8 +156,8 @@ here is a list of the ranges
 
 16 Hex = Long, Variable, High foreground boost.
 15 Hex = Long, Variable, Medium foreground boost.
-14 Hex = Long, Variable, No foreground boost. `
-
+14 Hex = Long, Variable, No foreground boost. ```
+ ```
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/b45224dd-ef22-4135-bd54-077818ff2477)
 
