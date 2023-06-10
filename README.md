@@ -18,3 +18,6 @@ and create a installer of the programs you use, there are tools  later in this g
 
 ### Windows installation 
 I like to unplug my ethernet cable when installing windows if you're on wifi and not using a cable you will not need to worry about this. 
+
+Once in windows install your drivers that you pre-download and restart when promted to.
+
