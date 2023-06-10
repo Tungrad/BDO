@@ -41,7 +41,19 @@ Download and install the [.NET 4.8 runtimes](https://dotnet.microsoft.com/en-us/
 Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/download/details.aspx?id=8109).
 
 
+## Configure Memory Management Settings (Windows 8+)
 
+- Open PowerShell and enter the command below
+
+    ```powershell
+    Get-MMAgent
+    ```
+
+- If anything is set to True, use the command below as an example to disable a given setting
+
+    ```powershell
+    Disable-MMAgent -MemoryCompression
+    ```
 
 
 
