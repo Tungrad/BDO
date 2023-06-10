@@ -1,11 +1,11 @@
 # General windows / BDO setup
-General PC setup and tweaks for the avg BDO gamer, along with BDO setup i personally do, will cover a basic general setup and will go more indeth down the rabbit hole of trying to optismise your PC. 
+General PC setup and tweaks for the avg BDO gamer, along with BDO setup i personally do, will cover a basic general setup and will go more indeth down the rabbit hole of trying to optimise  your PC. 
 
 Taken info from many resources and put them together in this guide for the avg bdo gamer / casual trying to improve their experience.
 
 # Choosing your OS!
 Win10 vs Win11
-Pick whichever OS you like better if you're on reletivly new CPU i would say go win11.
+Pick whichever OS you like better if you're on relatively new CPU i would say go win11.
 
 General [guide](https://youtube.com/shorts/VfOAjO3BfRc?feature=share) on creating a windows boot usb 
 
@@ -14,7 +14,7 @@ If you go down the windows 11 path would say try out [tiny11](https://youtu.be/q
 Github link for the [tiny11 builder](https://github.com/ntdevlabs/tiny11builder)
 
 ## Pre install
-If you're going to install a fresh OS i would reccomend to predownload your basic needed drivers (chipset,Lan,GPU) and put them on a folder names "Drivers" for example on a usb or 2nd drive. I would suggest going onto this site - https://ninite.com/ 
+If you're going to install a fresh OS i would recommend to pre-download your basic needed drivers (chipset,Lan,GPU) and put them on a folder names "Drivers" for example on a usb or 2nd drive. I would suggest going onto this site - https://ninite.com/ 
 and create a installer of the programs you use, there are tools  later in this guide that have a similar feature but i like to create on of these now incase just kind of a failsafe.
 if you go down the tiny11 path you will not have a browser installed and if you dont know how to use winget i dont skip predownloading drivers and at least download the installer of browser of your choice.
 if you want to try optimise the most performance possible you can look into pre making a debloat driver that you will install later using this [Guide](https://github.com/luke-beep/guide-to-optimizing-windows/blob/main/docs/DRIVER-TWEAKS.md#debloat-nvidia-drivers). 
@@ -116,8 +116,8 @@ and these are 3 BDO profile you can swap between [BDOV1](https://cdn.discordapp.
 
 If you playing BDO play around with this setting Off, On, Ultra with the other bdo profiles i linked before and see what feels the best.![image](https://github.com/Tungrad/BDO/assets/126987283/f51a5a43-8c12-47fa-950d-20f06d434ce4) 
 
-## Disable  coreisolation
-Search for Coreisolation in windows search 
+## Disable  Core Isolation
+Search for Core Isolation in windows search 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/f8326b29-2912-4469-8786-1c66ff1168e3)
 
 Disable it 
@@ -128,7 +128,7 @@ Disable it
 I typically like to you the Bitsum powerplan 
 [Power plan.zip](https://github.com/Tungrad/BDO/files/11712663/Power.plan.zip)
 
-Unzip folder to your C drive, the path should look like this C:\Plan run the bat file as admin to check it was added successfull open your powerplan settings it should look like this 
+Unzip folder to your C drive, the path should look like this C:\Plan run the bat file as admin to check it was added successfully open your powerplan settings it should look like this 
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/5d47a12e-2f8c-472c-9c1e-6176ddcb1508)
 
@@ -261,8 +261,15 @@ If you are on DDR4 its requires a bit more effort here is an extensive [Guide](h
 
 but yh for the avg person i would skip this personally
 
-## More indepth guides
+## More in depth guides
 if you really really really want to try optimise your system further you can look into these guides
 [Basic guide](https://github.com/luke-beep/guide-to-optimizing-windows/tree/main) [Advanced Guide](https://github.com/amitxv/PC-Tuning/tree/main)
 
 [1st video](https://www.youtube.com/watch?v=WGDRL87tg5s) [2nd video](https://youtu.be/sbXzM60ad8I?t=12)
+
+
+# END
+
+Hopefully this guide was helpful and improved your performance 
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/5c26de9f-e654-44be-ae48-7aab5fef9adc)
