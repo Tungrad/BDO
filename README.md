@@ -3,4 +3,4 @@ General PC setup and tweaks along with BDO setup i personally do, will cover a b
 Taken info from many resources and put them together in this guide for the avg bdo gamer / casual trying to improve their experience.
 
 # Choosing your OS!
-##Win10 vs Win11
+Win10 vs Win11
