@@ -16,4 +16,5 @@ If you go down the windows 11 path would say try out tiny11 cuts out most of the
 If you're going to install a fresh OS i would reccomend to predownload your basic needed drivers (chipset,Lan,GPU) and put them on a folder names "Drivers" for example on a usb or 2nd drive. I would suggest going onto this site - https://ninite.com/ 
 and create a installer of the programs you use, there are tools  later in this guide that have a similar feature but i like to create on of these now incase just kind of a failsafe.
 
-### installing 
+### Windows installation 
+I like to unplug my ethernet cable when installing windows if you're on wifi and not using a cable you will not need to worry about this. 
