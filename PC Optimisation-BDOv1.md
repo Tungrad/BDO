@@ -191,7 +191,7 @@ Then head over to the updates tab and select the middle option "security"
 
 
 ### Optimizer
-[Optimizer](https://github.com/hellzerg/optimizer) is solid tool if you feeling to go a bit more harder into the "optimisation" for your PC this is a widely used tool
+[Optimizer](https://github.com/hellzerg/optimizer) Overall this tool i think is the best to run on its own and just be done at that "optimisation" for your PC this is a widely used tool
 These are the settings I would run for the program.
 
 General tab settings
