@@ -137,7 +137,10 @@ I typically like to run this [regedit](https://cdn.discordapp.com/attachments/20
 ## MSI AFTERBURNER
 Download [msi afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1686574187~acl=/*~hmac=76ef0d51e24860e0101c2c76cba86e3ffab24219ab8a6fbd4bedd5ba98c73163)
 
-enable the fan curve and adjust it to your preference ![image](https://github.com/Tungrad/BDO/assets/126987283/bb02743b-209f-4c5b-83a9-6346b2c01d5e)
+enable the fan curve and adjust it to your preference 
+![image](https://github.com/Tungrad/BDO/assets/126987283/bb02743b-209f-4c5b-83a9-6346b2c01d5e)
+
+for the BDO gamers my performanced has improved quite a bit from overclocking my memoryclock a bit so play around with adding a bit more to the mem clock and see if you see positive results 
 
 
 
