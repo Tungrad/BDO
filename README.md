@@ -26,7 +26,7 @@ Once in windows install your drivers that you pre-download and restart when prom
 Once in windows Install the Ninite file or atleast your browser of choice and download and run [O&O ShutUp](https://www.oo-software.com/en/shutup10) and apply [recommended](https://imgur.com/a/9mhHbh8) settings accept the restore point then go ahead and close out of the program and restart your pc.
 
 # Windows post install - bits n pieces stolen from [amint guide](https://github.com/amitxv/PC-Tuning/blob/main/docs/post-install.md)
-Now we begin with basic windows changes to do
+
 
 ## Install Visual C++ Redistributable Runtimes
 
