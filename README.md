@@ -6,7 +6,7 @@ Taken info from many resources and put them together in this guide for the avg b
 Win10 vs Win11
 Pick whichever OS you like better if you're on reletivly new CPU i would say go win11.
 
-General guide on creating a windows boot usb - https://youtube.com/shorts/VfOAjO3BfRc?feature=share
+General [guide]https://youtube.com/shorts/VfOAjO3BfRc?feature=share on creating a windows boot usb 
 
 If you go down the windows 11 path would say try out tiny11 cuts out most of the reinstalled apps which you will not have to remove later on your own (edge is completely removed in tiny11) https://youtu.be/qiF30VGfGhA?t=172
 
