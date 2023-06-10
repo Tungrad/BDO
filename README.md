@@ -8,7 +8,7 @@ Pick whichever OS you like better if you're on reletivly new CPU i would say go 
 
 General [guide](https://youtube.com/shorts/VfOAjO3BfRc?feature=share) on creating a windows boot usb 
 
-If you go down the windows 11 path would say try out tiny11 cuts out most of the reinstalled apps which you will not have to remove later on your own (edge is completely removed in tiny11) https://youtu.be/qiF30VGfGhA?t=172
+If you go down the windows 11 path would say try out [tiny11](https://youtu.be/qiF30VGfGhA?t=172) cuts out most of the reinstalled apps which you will not have to remove later on your own (edge is completely removed in tiny11) 
 
 (Github link for the tiny11 builder) https://github.com/ntdevlabs/tiny11builder
 
