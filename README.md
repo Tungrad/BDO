@@ -21,4 +21,4 @@ I like to unplug my ethernet cable when installing windows if you're on wifi and
 
 Once in windows install your drivers that you pre-download and restart when promted to.
 
-# Which optimise tool to go!
+# Which optimise tool to use.
