@@ -26,4 +26,4 @@ Once in windows install your drivers that you pre-download and restart when prom
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend to try out. 
 
-Avoid using all in conjuction with each other pick one and turning on all settings.
+Avoid using all in conjuction with each otherand turning on all settings more likely to cause issues than improve performance if you do this.
