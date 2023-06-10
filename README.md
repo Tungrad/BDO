@@ -63,7 +63,7 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 
         - In the ``Apps -> Optional features`` section, uninstall everything apart from ``WMIC``, ``Notepad (system)`` and ``WordPad``
 
-- Restart your PC once to apply the changes above (do not boot into Linux without a full restart beforehand)
+- Restart your PC once to apply the changes above 
 
 
 ## Configure Memory Management Settings (Windows 8+)
