@@ -40,6 +40,22 @@ Download and install the [.NET 4.8 runtimes](https://dotnet.microsoft.com/en-us/
 
 Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/download/details.aspx?id=8109).
 
+- Windows 10+ Only:
+
+    - Windows 10:
+
+        - Uninstall bloatware in ``Apps -> Apps and Features`` by pressing ``Win+I``
+
+        - In the ``Optional features`` section, uninstall everything apart from ``Microsoft Paint``, ``Notepad`` and ``WordPad`` if applicable (these do not exist in earlier Windows 10 versions)
+
+    - Windows 11:
+
+        - Uninstall bloatware in ``Apps -> Installed apps`` by pressing ``Win+I``
+
+        - In the ``Apps -> Optional features`` section, uninstall everything apart from ``WMIC``, ``Notepad (system)`` and ``WordPad``
+
+- Restart your PC once to apply the changes above (do not boot into Linux without a full restart beforehand)
+
 
 ## Configure Memory Management Settings (Windows 8+)
 
