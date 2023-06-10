@@ -198,7 +198,7 @@ Download the [MSI](http://www.mediafire.com/file/ewpy1p0rr132thk/MSI_util_v3.zip
 
 ## Chrome
 
-if you use chrome or anyother chromium based browser disable this
+if you use chrome or any other chromium based browser disable this
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/33a0ad6c-e15d-4c1c-a6ca-fef12afed43e)
 
