@@ -165,5 +165,6 @@ Rename the file to BDO.bat then right click and edit it in the file put in this
 cd /d "C:\Pearlabyss\BlackDesert"
 Start /affinity Yournumber BlackDesertLauncher.exe
 
-![image](https://github.com/Tungrad/BDO/assets/126987283/9af2e544-7797-42bb-a862-576dd84a0ae6)
+![image](https://github.com/Tungrad/BDO/assets/126987283/696040e4-5e48-42a3-bd0b-e54379ca6cb3)
+
 
