@@ -168,6 +168,8 @@ Rename the file to BDO.bat then right click and edit it in the file put in this 
  Start /affinity Yournumber BlackDesertLauncher.exe
  ```
 
+Change the path on the first line to you bdo install if its different to mine, you will then need to go to the [canadian](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit#heading=h.v9tozbpj4fx) mf guide and get the number prefix for the Yournumber you need to change, on the side go to the CPU performance tab in his guide and adjust to what is needed
+
 
 
 
