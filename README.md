@@ -33,6 +33,7 @@ Once in windows Install the Ninite file or atleast your browser of choice and do
  main.cpl
  ```
 Untick this
+
 ![image](https://github.com/Tungrad/BDO/assets/126987283/66252b28-5463-46c4-93d5-c64bcbfefff0)
 
 
