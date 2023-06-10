@@ -23,7 +23,7 @@ I like to unplug my ethernet cable when installing windows if you're on wifi and
 
 Once in windows install your drivers that you pre-download and restart when promted to.
 
-Install the #L17
+Install the https://github.com/Tungrad/BDO/edit/main/README.md?plain=#L17
 
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend to try out. 
