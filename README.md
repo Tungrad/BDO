@@ -128,7 +128,7 @@ Disable it
 I typically like to you the Bitsum powerplan 
 [Power plan.zip](https://github.com/Tungrad/BDO/files/11712663/Power.plan.zip)
 
-Unzip folder to your C drive, the path should look like this C:\Plan run the bat file as admin to check it was added successfull yopen your powerplan and it should look like this 
+Unzip folder to your C drive, the path should look like this C:\Plan run the bat file as admin to check it was added successfull open your powerplan settings it should look like this 
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/5d47a12e-2f8c-472c-9c1e-6176ddcb1508)
 
