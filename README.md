@@ -157,4 +157,6 @@ If you want to go full ham with with hone settings you can copy everythig this g
 
 # BDO setup
 setting up a batfile for affinities on BDO
-How to setup bat file and pin it to taskbar, right click your desktop -`` new`` - ``text document``-
+
+How to setup bat file and pin it to taskbar, right click your desktop -``new`` - ``text document``-
+![image](https://github.com/Tungrad/BDO/assets/126987283/86f16f60-b2e2-47c3-86a4-bf34fa71d844)
