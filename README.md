@@ -65,7 +65,7 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
  ```powershell
  mmsys.cpl
  ```
-Follow [This](https://imgur.com/a/IpVCXBG) to configure your sound settings 
+The sound contro window should pop up now, Follow [This](https://imgur.com/a/IpVCXBG) to configure your sound settings 
 
 
 
