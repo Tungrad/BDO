@@ -162,9 +162,9 @@ change the value to the ranges listed below, you do not need to restart for this
 
 
 # Which optimise tool to use.
-There are about 3 Tools that i've seen and would recommend to try out. 
+There are about 3 Tools that i've seen and would recommend trying out. 
 
-Avoid using all 3 in conjuction with each otherand turning on all settings more likely to cause issues than improve performance if you do this.
+Avoid using all 3 in conjunction with each other and turning on all the settings are more likely to cause issues than improve performance if you do this.
 For the general person I would say go the CTT route and be done, if you're more into minx maxing performance and having a older system I would say to use CTT with hone or just use optimizer on its own.
 
 ### CTT Tool
