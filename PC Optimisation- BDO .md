@@ -137,8 +137,25 @@ I typically like to run this [regedit](https://cdn.discordapp.com/attachments/20
 
 ## W32 Priority Seperation
 
-Go to this reg directory - Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl and with this [guide/post](https://forums.blurbusters.com/viewtopic.php?t=8535)
-change the value to the ranges listed in the post, you do not need to restart for this to take effect so for examplem, defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best
+open regedit and  go to this reg directory at the top - Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl and with this [guide/post](https://forums.blurbusters.com/viewtopic.php?t=8535)
+
+change the value to the ranges listed in the post, you do not need to restart for this to take effect, so for example defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best
+here is a list of the ranges 
+``2A Hex = Short, Fixed , High foreground boost.
+29 Hex = Short, Fixed , Medium foreground boost.
+28 Hex = Short, Fixed , No foreground boost.
+
+26 Hex = Short, Variable , High foreground boost.
+25 Hex = Short, Variable , Medium foreground boost.
+24 Hex = Short, Variable , No foreground boost.
+
+1A Hex = Long, Fixed, High foreground boost.
+19 Hex = Long, Fixed, Medium foreground boost.
+18 Hex = Long, Fixed, No foreground boost.
+
+16 Hex = Long, Variable, High foreground boost.
+15 Hex = Long, Variable, Medium foreground boost.
+14 Hex = Long, Variable, No foreground boost.``
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/b45224dd-ef22-4135-bd54-077818ff2477)
 
