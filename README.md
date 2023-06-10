@@ -53,6 +53,10 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 
     ```powershell
     Disable-MMAgent -MemoryCompression
+    Disable-MMAgent -ApplicationLaunchPrefetching
+    Disable-MMAgent -ApplicationPreLaunch
+    Disable-MMAgent -OperationAPI
+    Disable-MMAgent -PageCombining
     ```
 
 
