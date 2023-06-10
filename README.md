@@ -10,7 +10,7 @@ General [guide](https://youtube.com/shorts/VfOAjO3BfRc?feature=share) on creatin
 
 If you go down the windows 11 path would say try out [tiny11](https://youtu.be/qiF30VGfGhA?t=172) cuts out most of the reinstalled apps which you will not have to remove later on your own (edge is completely removed in tiny11) 
 
-(Github link for the tiny11 builder) https://github.com/ntdevlabs/tiny11builder
+Github link for the [tiny11 builder](https://github.com/ntdevlabs/tiny11builder)
 
 ## Pre install
 If you're going to install a fresh OS i would reccomend to predownload your basic needed drivers (chipset,Lan,GPU) and put them on a folder names "Drivers" for example on a usb or 2nd drive. I would suggest going onto this site - https://ninite.com/ 
