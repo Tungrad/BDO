@@ -26,6 +26,7 @@ Once in windows install your drivers that you pre-download and restart when prom
 Once in windows Install the Ninite file or atleast your browser of choice and download and run [O&O ShutUp](https://www.oo-software.com/en/shutup10) and apply [recommended](https://imgur.com/a/9mhHbh8) settings accept the restore point then go ahead and close out of the program and restart your pc.
 
 # Setting up basic windows changes
+Now we begin with basic windows changes to do
 
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend to try out. 
