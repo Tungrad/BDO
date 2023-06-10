@@ -63,7 +63,8 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 
         - In the ``Apps -> Optional features`` section, uninstall everything apart from ``WMIC``, ``Notepad (system)`` and ``WordPad``
 
-- Restart your PC once to apply the changes above 
+- Open your start menu with windows key and unpin and uninstall iteams left over in here you will typically see tiktok, clip chimp etx if you didnt go down the tiny11 route.
+-  Restart your PC once to apply the changes above
 
 
 ## Configure Memory Management Settings (Windows 8+)
