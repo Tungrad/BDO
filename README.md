@@ -132,6 +132,7 @@ Unzip folder to your C drive, the path should look like this C:\Plan run the bat
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/5d47a12e-2f8c-472c-9c1e-6176ddcb1508)
 
+I typically like to run this [regedit](https://cdn.discordapp.com/attachments/200251993766363136/1117104485890797608/small_tweaks.reg) file has a few small tweaks feel free to use it also
 
 
 
