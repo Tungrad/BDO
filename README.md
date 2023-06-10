@@ -116,6 +116,13 @@ and these are 3 BDO profile you can swap between [BDOV1](https://cdn.discordapp.
 
 If you playing BDO play around with this setting Off, On, Ultra with the other bdo profiles i linked before and see what feels the best.![image](https://github.com/Tungrad/BDO/assets/126987283/f51a5a43-8c12-47fa-950d-20f06d434ce4) 
 
+## Disable  coreisolation
+Search for Coreisolation in windows search 
+![image](https://github.com/Tungrad/BDO/assets/126987283/f8326b29-2912-4469-8786-1c66ff1168e3)
+
+Disable it 
+![image](https://github.com/Tungrad/BDO/assets/126987283/672b99ed-e2b7-440f-9e61-860650f3f7f7)
+
 
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend to try out. 
@@ -184,4 +191,8 @@ You can use this [regfile](https://cdn.discordapp.com/attachments/82717922421309
 I like to put a max FPS cap on bdo to prevent hitting 6k fps in loading screens copy if you so wish
 ![image](https://github.com/Tungrad/BDO/assets/126987283/c8ccee59-e485-4df8-b212-d02a067cac42)
 
+## Msi Tool
+Download the [MSI](http://www.mediafire.com/file/ewpy1p0rr132thk/MSI_util_v3.zip/file) Tool open it as admin , find your gpu and if your gpu is not already ticked tick it, if its unticked and does not have a negative irq value just skip this.
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/e126c0fe-a6de-4ac4-b3d4-391aa0071d8a)
 
