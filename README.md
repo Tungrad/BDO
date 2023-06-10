@@ -113,6 +113,7 @@ There are about 3 Tools that i've seen and would recommend to try out.
 Avoid using all in conjuction with each otherand turning on all settings more likely to cause issues than improve performance if you do this.
 
 ### CTT Tool
+I would recommend this for most people but if you want more GAMER oriented tool only use the the security section of the tool as shown below. 
 Run powershell as admin and paste the command below, Click Y to install chocolatey and then a windows will appear 
 
  ```powershell
