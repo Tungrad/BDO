@@ -69,8 +69,8 @@ The sound contro window should pop up now, Follow [This](https://imgur.com/a/IpV
 
 ## Device manager Settings
 Find your mouse right click properties and uncheck both in power management [following](https://imgur.com/a/9n9VWPw)
-)
 
+Do the same for your [Network adapters](https://imgur.com/a/TE8LmxV)
 
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend to try out. 
