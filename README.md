@@ -10,5 +10,5 @@ If you go down the windows 11 path would say try out tiny11 cuts out most of the
 
 (Github link for the tiny11 builder) https://github.com/ntdevlabs/tiny11builder
 
-# Pre install
+## Pre install
 If you're going to install a fresh OS i would reccomend to predownload your basic needed drivers (chipset,Lan,GPU) and put them on a file on a usb or 2nd drive.
