@@ -69,7 +69,7 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 
 ## Configure Memory Management Settings (Windows 8+)
 
-- Open PowerShell and enter the command below
+- Open PowerShell as admin and enter the command below
 
     ```powershell
     Get-MMAgent
