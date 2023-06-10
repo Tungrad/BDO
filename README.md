@@ -73,6 +73,11 @@ Find your mouse right click properties and uncheck both in power management [fol
 Do the same for your [Network adapters](https://imgur.com/a/TE8LmxV)
 while in the network adapter settings go to the advanced tab and set the following to disabled (Energy efficient ethernet, Green Ethernet,power saving mode)
 
+## Nvidia inspector 
+Download [inspector](https://www.guru3d.com/files-details/nvidia-inspector-download.html)
+This is my [Base profile](https://cdn.discordapp.com/attachments/610614436939694141/1116940618204184637/Overall_profile.nip)
+and these are 3 BDO profile you can swap between [BDOV1](https://cdn.discordapp.com/attachments/610614436939694141/1116940617042362378/Black_DesertV1.nip). [BDOV2](https://cdn.discordapp.com/attachments/610614436939694141/1116940617428250705/Black_DesertV2.nip). [BDOV3](https://cdn.discordapp.com/attachments/610614436939694141/1116940617772179456/Black_DesertV3.nip).
+
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend to try out. 
 
