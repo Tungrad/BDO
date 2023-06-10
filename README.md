@@ -16,14 +16,14 @@ Github link for the [tiny11 builder](https://github.com/ntdevlabs/tiny11builder)
 ## Pre install
 If you're going to install a fresh OS i would reccomend to predownload your basic needed drivers (chipset,Lan,GPU) and put them on a folder names "Drivers" for example on a usb or 2nd drive. I would suggest going onto this site - https://ninite.com/ 
 and create a installer of the programs you use, there are tools  later in this guide that have a similar feature but i like to create on of these now incase just kind of a failsafe.
-if you go down the tiny11 path you will not have a browser installed and if you dont know how to use winget i dont skip predownloading drivers and at least installer of browser of your choice.
+if you go down the tiny11 path you will not have a browser installed and if you dont know how to use winget i dont skip predownloading drivers and at least download the installer of browser of your choice.
 
 ### Windows installation 
 I like to unplug my ethernet cable when installing windows if you're on wifi and not using a cable you will not need to worry about this. 
 
 Once in windows install your drivers that you pre-download and restart when promted to.
 
-Install the https://github.com/Tungrad/BDO/blob/main/README.md?plain=#L17
+Install the [Ninite](https://github.com/Tungrad/BDO/blob/main/README.md?plain=#L16) file are at least your browser installer of choice
 
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend to try out. 
