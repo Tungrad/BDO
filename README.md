@@ -9,3 +9,6 @@ Pick whichever OS you like better if you're on reletivly new CPU i would say go 
 If you go down the windows 11 path would say try out tiny11 cuts out most of the reinstalled apps which you will not have to remove later on your own (edge is completely removed in tiny11) https://youtu.be/qiF30VGfGhA?t=172
 
 (Github link for the tiny11 builder) https://github.com/ntdevlabs/tiny11builder
+
+#Pre install
+If you're going to install a fresh OS i would reccomend to predownload your basic needed drivers (chipset,Lan,GPU) and put them on a file on a usb or 2nd drive.
