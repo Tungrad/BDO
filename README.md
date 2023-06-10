@@ -111,3 +111,7 @@ If you playing BDO play around with this setting Off, On, Ultra with the other b
 There are about 3 Tools that i've seen and would recommend to try out. 
 
 Avoid using all in conjuction with each otherand turning on all settings more likely to cause issues than improve performance if you do this.
+
+### CTT Tool
+### Optimizer
+### Hone cntrl
