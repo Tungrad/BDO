@@ -23,7 +23,7 @@ I like to unplug my ethernet cable when installing windows if you're on wifi and
 
 Once in windows install your drivers that you pre-download and restart when promted to.
 
-Once in windows Install the Ninite file or atleast your browser of choice and download and run [O&O ShutUp](https://www.oo-software.com/en/shutup10)
+Once in windows Install the Ninite file or atleast your browser of choice and download and run [O&O ShutUp](https://www.oo-software.com/en/shutup10) and apply [recommended](https://imgur.com/a/9mhHbh8) settings 
 
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend to try out. 
