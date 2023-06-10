@@ -147,3 +147,6 @@ Windows 10/11 settings
 
 
 ### Hone cntrl
+
+[Hone](https://github.com/auraside/HoneCtrl) Another tool that's pretty popular amoung the MC crowd and valorant 
+
