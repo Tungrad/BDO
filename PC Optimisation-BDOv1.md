@@ -170,6 +170,16 @@ change the value to the ranges listed below, you do not need to restart for this
 ![image](https://github.com/Tungrad/BDO/assets/126987283/b45224dd-ef22-4135-bd54-077818ff2477)
 
 
+# Autoruns
+
+Download autoruns [here](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
+Open it as admin and wait for everything to load on the bottom left will say ready once its done.
+
+I would only touch the scheduled tasks tab and services tab for me personally i untick anything edge related
+for example this 
+![image](https://github.com/Tungrad/BDO/assets/126987283/88d684ab-7db0-4b72-8aa2-e08c81194387)
+
+
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend trying out. 
 
