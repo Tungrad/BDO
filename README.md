@@ -42,15 +42,9 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 
 ## Remove Bloatware Natively
 
-- Open CMD and enter the commands below
+- Open CMD and enter the command below
 
-    - Remove Chromium Microsoft Edge (if present)
-
-        ```bat
-        if exist "C:\Program Files (x86)\Microsoft\Edge\Application" (for /f "delims=" %a in ('where /r "C:\Program Files (x86)\Microsoft\Edge\Application" *setup.exe*') do ("%a" --uninstall --system-level --verbose-logging --force-uninstall))
-        ```
-
-    - Remove OneDrive
+    - Remove OneDrive if you will not be using it.
 
         ```bat
         for %a in ("SysWOW64" "System32") do (if exist "%windir%\%~a\OneDriveSetup.exe" ("%windir%\%~a\OneDriveSetup.exe" /uninstall))
