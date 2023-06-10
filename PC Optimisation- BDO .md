@@ -139,8 +139,8 @@ I typically like to run this [regedit](https://cdn.discordapp.com/attachments/20
 
 open regedit and  go to this reg directory at the top - Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl and with this [guide/post](https://forums.blurbusters.com/viewtopic.php?t=8535)
 
-change the value to the ranges listed in the post, you do not need to restart for this to take effect, so for example defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best
-here is a list of the ranges 
+change the value to the ranges listed below, you do not need to restart for this to take effect, so for example defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best
+
 
 ``` 2A Hex = Short, Fixed , High foreground boost.
 29 Hex = Short, Fixed , Medium foreground boost.
