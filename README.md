@@ -226,7 +226,7 @@ Look into PBO if you're on the AMD platform general PBO guide [here](https://www
 if you're on intel you can look into this [guide](https://www.youtube.com/watch?v=6nIIG7QYcKE)#
 
 ## DRR4/5 OCing To get a bit more performance from your system you can look into overclocking, do it at your own risk tho
-for the general person i would just totally skip this and just make sure **XMP / DOCP/ EXPO is enable in your BIOS!*
+for the general person i would just totally skip this and just make sure **XMP / DOCP/ EXPO is enable in your BIOS!**
 
 ### DDR5
 if you have ddr5 memory i would follow this [guide](https://www.youtube.com/watch?v=dlYxmRcdLVw) generally these speeds and timing will work on most hynix ddr5 kits and probably samsung also 
