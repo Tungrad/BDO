@@ -118,7 +118,7 @@ Run powershell as admin and paste the command below, Click Y to install chocolat
  ```powershell
  iwr -useb https://christitus.com/win | iex
  ```
- Head over to the Tweaks tab and these are what i have ticked feel free to copy.
+ Head over to the Tweaks tab and these are what i have ticked feel free to copy. Click run tweaks when done selecting
 ![image](https://github.com/Tungrad/BDO/assets/126987283/559ac5e8-7036-46ca-be37-0c248444148b)
 
 Then head over to the updates tab and select the middle option "security"
