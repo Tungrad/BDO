@@ -161,13 +161,13 @@ setting up a batfile for affinities on BDO
 How to setup bat file and pin it to taskbar, right click your desktop -``new`` - ``text document``-
 ![image](https://github.com/Tungrad/BDO/assets/126987283/86f16f60-b2e2-47c3-86a4-bf34fa71d844)
 
-Rename the file to BDO.bat then right click and edit it in the file put in this 
+Rename the file to BDO.bat then right click and edit it in the file put in this  ![image](https://github.com/Tungrad/BDO/assets/126987283/696040e4-5e48-42a3-bd0b-e54379ca6cb3)
 
 ```powershell
  cd /d "C:\Pearlabyss\BlackDesert"
  Start /affinity Yournumber BlackDesertLauncher.exe
  ```
 
-![image](https://github.com/Tungrad/BDO/assets/126987283/696040e4-5e48-42a3-bd0b-e54379ca6cb3)
+
 
 
