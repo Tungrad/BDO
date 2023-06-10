@@ -53,13 +53,13 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 
     - Windows 10:
 
-        - Uninstall bloatware in ``Apps -> Apps and Features`` by pressing ``Win+I``
+        - Uninstall bloatware in ``Apps -> Apps and Features`` by pressing ``Win+I`` uninstall programs you will not be using
 
         - In the ``Optional features`` section, uninstall everything apart from ``Microsoft Paint``, ``Notepad`` and ``WordPad`` if applicable (these do not exist in earlier Windows 10 versions)
 
     - Windows 11:
 
-        - Uninstall bloatware in ``Apps -> Installed apps`` by pressing ``Win+I``
+        - Uninstall bloatware in ``Apps -> Installed apps`` by pressing ``Win+I`` uninstall programs you will not be using
 
         - In the ``Apps -> Optional features`` section, uninstall everything apart from ``WMIC``, ``Notepad (system)`` and ``WordPad``
 
