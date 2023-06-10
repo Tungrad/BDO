@@ -155,6 +155,15 @@ Run powershell as admin and paste the command below, Click Y to install chocolat
 Then head over to the updates tab and select the middle option "security"
 ![image](https://github.com/Tungrad/BDO/assets/126987283/235cf578-3d91-4ed2-a4af-d0e122380b0b)
 
+##W 32 Priority Seperation
+
+Go to this reg directory - Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl and with this [guide/post](https://forums.blurbusters.com/viewtopic.php?t=8535)
+change the value to the ranges listed in the post, you do not need to restart for this to take effect so for examplem, defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/b45224dd-ef22-4135-bd54-077818ff2477)
+
+
+
 
 ### Optimizer
 [Optimizer](https://github.com/hellzerg/optimizer) is solid tool if you feeling to go a bit more harder into the "optimisation" for your PC this is a widely used tool
