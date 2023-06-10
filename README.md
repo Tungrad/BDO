@@ -170,5 +170,18 @@ Rename the file to BDO.bat then right click and edit it in the file put in this 
 
 Change the path on the first line to you bdo install if its different to mine, you will then need to go to the [canadian](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit#heading=h.v9tozbpj4fx) mf guide, go to the CPU performance tab in his guide and get the number prefix for the Yournumber that you will need to edit in the batfile you just made.
 
+If you a new bozo follow the entire guide if not then you then only focus on the CPU performance section. overall it's a good guide.
+
+Once you have the number needed for your CPU in the bat file done cut and paste the bat file into your BDO install directory mine is this “C:\Pearlabyss\BlackDesert”
+Once you have pasted it right click it ``properties`` - ``Advanced`` - ``run as admin``once done right click the batfile once again and create shortcut then once you have done that move the shortcut to your desktop right click it and then click properties 
+Then put this “cmd.exe /C” without the quote marks into the target tab
+![image](https://github.com/Tungrad/BDO/assets/126987283/19621c10-2622-4d15-8780-a0343a8b0b13)
+
+Click apply then you will notice the icon off the file looks different now, you can have some fun and change the icon of it to make it cooler. also right click properties of the bat file advanced and tick run as admin, you should then be able to pin the file to your taskbar now and open your game.
+
+You can use this [regfile](https://cdn.discordapp.com/attachments/827179224213094421/1105669846693331016/eac.reg) to put EAC to run on low prio your choice if you want to copy this step.
+
+I like to put a max FPS cap on bdo to prevent hitting 6k fps in loading screens copy if you so wish
+![image](https://github.com/Tungrad/BDO/assets/126987283/c8ccee59-e485-4df8-b212-d02a067cac42)
 
 
