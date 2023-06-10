@@ -135,9 +135,10 @@ Then head over to the updates tab and select the middle option "security"
 ![image](https://github.com/Tungrad/BDO/assets/126987283/235cf578-3d91-4ed2-a4af-d0e122380b0b)
 
 
-
-
-
-
 ### Optimizer
+[Optimizer](https://github.com/hellzerg/optimizer) is solid tool if you feeling to go a bit more harder into the "optimisation" for your PC this is a widely used tool
+These are the settings I would run for the program.
+https://cdn.discordapp.com/attachments/200251993766363136/1115767839903727656/image.png
+
+
 ### Hone cntrl
