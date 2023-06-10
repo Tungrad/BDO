@@ -78,7 +78,7 @@ Download [inspector](https://www.guru3d.com/files-details/nvidia-inspector-downl
 This is my [Base profile](https://cdn.discordapp.com/attachments/610614436939694141/1116940618204184637/Overall_profile.nip)
 and these are 3 BDO profile you can swap between [BDOV1](https://cdn.discordapp.com/attachments/610614436939694141/1116940617042362378/Black_DesertV1.nip). [BDOV2](https://cdn.discordapp.com/attachments/610614436939694141/1116940617428250705/Black_DesertV2.nip). [BDOV3](https://cdn.discordapp.com/attachments/610614436939694141/1116940617772179456/Black_DesertV3.nip).
 
-If you playing BDO ![image](https://github.com/Tungrad/BDO/assets/126987283/f51a5a43-8c12-47fa-950d-20f06d434ce4)
+If you playing BDO ![image](https://github.com/Tungrad/BDO/assets/126987283/f51a5a43-8c12-47fa-950d-20f06d434ce4) play around with this setting Off, On, Ultra with the other bdo profiles i linked before and see what feels the best.
 
 
 # Which optimise tool to use.
