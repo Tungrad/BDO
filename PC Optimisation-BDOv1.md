@@ -237,12 +237,12 @@ You can use this [regfile](https://cdn.discordapp.com/attachments/82717922421309
 I like to put a max FPS cap on bdo to prevent hitting 6k fps in loading screens copy if you so wish
 ![image](https://github.com/Tungrad/BDO/assets/126987283/c8ccee59-e485-4df8-b212-d02a067cac42)
 
-## Msi Tool
+# Msi Tool
 Download the [MSI](http://www.mediafire.com/file/ewpy1p0rr132thk/MSI_util_v3.zip/file) Tool open it as admin , find your gpu and if your gpu is not already ticked tick it, if its unticked and does not have a negative irq value just skip this.
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/e126c0fe-a6de-4ac4-b3d4-391aa0071d8a)
 
-## Chrome
+# Chrome
 
 if you use chrome or any other chromium based browser disable this
 
@@ -250,7 +250,7 @@ if you use chrome or any other chromium based browser disable this
 
 if you're on fixfox or w/e else is there just disable  hardware acceleration
 
-##  Ocing
+#  Ocing
 To get a bit more performance from your system you can look into overclocking, do it at your own risk tho
 
 ### AMD
