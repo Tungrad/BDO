@@ -237,7 +237,7 @@ If you are on DDR4 its requires a bit more effort here is an extensive [Guide](h
 but yh for the avg person i would skip this personally
 
 ## More indepth guides
-if you really really really want to try optimise your system further you can look into these two videos
+if you really really really want to try optimise your system further you can look into these guides
 [Basic guide](https://github.com/luke-beep/guide-to-optimizing-windows/tree/main) [Advanced Guide](https://github.com/amitxv/PC-Tuning/tree/main)
 
 [1st video](https://www.youtube.com/watch?v=WGDRL87tg5s) [2nd video](https://youtu.be/sbXzM60ad8I?t=12)
