@@ -113,5 +113,11 @@ There are about 3 Tools that i've seen and would recommend to try out.
 Avoid using all in conjuction with each otherand turning on all settings more likely to cause issues than improve performance if you do this.
 
 ### CTT Tool
+From an Elevated (Run as Administrator) PowerShell prompt
+
+ ```powershell
+ iwr -useb https://christitus.com/win | iex
+ ```
+
 ### Optimizer
 ### Hone cntrl
