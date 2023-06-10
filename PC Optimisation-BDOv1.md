@@ -248,7 +248,7 @@ To get a bit more performance from your system you can look into overclocking, d
 Look into PBO if you're on the AMD platform general PBO guide [here](https://www.youtube.com/watch?v=dfkrp25dpQ0&t=20s)
 
 ### Intel
-if you're on intel you can look into this [guide](https://www.youtube.com/watch?v=6nIIG7QYcKE)#
+if you're on intel you can look into this [guide](https://www.youtube.com/watch?v=6nIIG7QYcKE)
 
 ## DRR4/5 
 OCing To get a bit more performance from your system you can look into overclocking, do it at your own risk tho
