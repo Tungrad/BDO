@@ -168,7 +168,7 @@ Avoid using all 3 in conjunction with each other and turning on all the settings
 For the general person I would say go the CTT route and be done, if you're more into minx maxing performance and having a older system I would say to use CTT with hone or just use optimizer on its own.
 
 ### CTT Tool
-I would recommend this for most people but if you want more GAMER oriented tool only use the the security section of the tool as shown below. 
+I would recommend this for most people but if you want more GAMER oriented tool only then only use the security section of the tool as shown below. 
 Run powershell as admin and paste the command below, Click Y to install chocolatey and then a windows will appear 
 
  ```powershell
@@ -200,7 +200,7 @@ For Hone i would run these general safe settings which can be seen [here](https:
 If you want to go full ham with with hone settings you can copy everythig this guy has turn on in this [video](https://youtu.be/hl2SIMnWW5A?t=69) generally i dont think you should be but its up to you what you want to do
 
 # BDO setup
-setting up a batfile for affinities on BDO
+setting up a bat file for affinities on BDO
 
 How to setup bat file and pin it to taskbar, right click your desktop -``new`` - ``text document``-
 ![image](https://github.com/Tungrad/BDO/assets/126987283/86f16f60-b2e2-47c3-86a4-bf34fa71d844)
@@ -212,7 +212,7 @@ Rename the file to BDO.bat then right click and edit it in the file put in this 
  Start /affinity Yournumber BlackDesertLauncher.exe
  ```
 
-Change the path on the first line to you bdo install if its different to mine, you will then need to go to the [canadian](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit#heading=h.v9tozbpj4fx) mf guide, go to the CPU performance tab in his guide and get the number prefix for the Yournumber that you will need to edit in the batfile you just made.
+Change the path on the first line to you bdo install if its different to mine, you will then need to go to the [canadian](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit#heading=h.v9tozbpj4fx) mf guide, go to the CPU performance tab in his guide and get the number prefix for the Yournumber that you will need to edit in the bat file you just made.
 
 If you a new bozo follow the entire guide if not then you then only focus on the CPU performance section. overall it's a good guide.
 
