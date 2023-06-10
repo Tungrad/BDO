@@ -123,6 +123,14 @@ Search for Coreisolation in windows search
 Disable it 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/672b99ed-e2b7-440f-9e61-860650f3f7f7)
 
+## Powerplan 
+
+I typically like to you the Bitsum powerplan 
+[Power plan.zip](https://github.com/Tungrad/BDO/files/11712663/Power.plan.zip)
+
+Unzip folder to your C drive, the path should look like this C:\Plan run the bat file as admin then open your powerplan settings it was added successfully  
+
+
 
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend to try out. 
@@ -203,3 +211,28 @@ if you use chrome or any other chromium based browser disable this
 ![image](https://github.com/Tungrad/BDO/assets/126987283/33a0ad6c-e15d-4c1c-a6ca-fef12afed43e)
 
 if you're on fixfox or w/e else is there just disable  hardware acceleration
+
+##  Ocing
+To get a bit more performance from your system you can look into overclocking, do it at your own risk tho
+
+### AMD
+Look into PBO if you're on the AMD platform general PBO guide [here](https://www.youtube.com/watch?v=dfkrp25dpQ0&t=20s)
+
+### Intel
+if you're on intel you can look into this [guide](https://www.youtube.com/watch?v=6nIIG7QYcKE)#
+
+## DRR4/5 OCing To get a bit more performance from your system you can look into overclocking, do it at your own risk tho
+for the general person i would just totally skip this and just make sure **XMP / DOCP/ EXPO is enable in your BIOS!*
+
+### DDR5
+if you have ddr5 memory i would follow this [guide](https://www.youtube.com/watch?v=dlYxmRcdLVw) generally these speeds and timing will work on most hynix ddr5 kits and probably samsung also 
+
+### DDR4
+If you are on DDR4 its requires a bit more effort here is an extensive [Guide](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md)
+
+but yh for the avg person i would skip this personally
+
+## GETTING THAT 1 EXTRA FPS
+if you really really really want to try optimise your system further you can look into these two videos
+
+[1st video](https://www.youtube.com/watch?v=WGDRL87tg5s) [2nd video](https://youtu.be/sbXzM60ad8I?t=12)
