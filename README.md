@@ -154,3 +154,7 @@ Windows 10/11 settings
 For Hone i would run these general safe settings which can be seen [here](https://github.com/luke-beep/guide-to-optimizing-windows/blob/main/docs/HONE.md)
 
 If you want to go full ham with with hone settings you can copy everythig this guy has turn on in this [video](https://youtu.be/hl2SIMnWW5A?t=69) generally i dont think you should be but its up to you what you want to do
+
+# BDO setup
+setting up a batfile for affinities on BDO
+How to setup bat file and pin it to taskbar, right click your desktop -`` new`` - ``text document``-
