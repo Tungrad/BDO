@@ -119,7 +119,8 @@ If you playing BDO play around with this setting Off, On, Ultra with the other b
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend to try out. 
 
-Avoid using all in conjuction with each otherand turning on all settings more likely to cause issues than improve performance if you do this.
+Avoid using all 3 in conjuction with each otherand turning on all settings more likely to cause issues than improve performance if you do this.
+For the general person I would say go the CTT route and be done, if you're more into minx maxing performance and having a older system look into using either optimizer or hone with it.
 
 ### CTT Tool
 I would recommend this for most people but if you want more GAMER oriented tool only use the the security section of the tool as shown below. 
