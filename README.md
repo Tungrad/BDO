@@ -28,6 +28,33 @@ Once in windows Install the Ninite file or atleast your browser of choice and do
 # Windows post install - bits n pieces stolen from [amint guide](https://github.com/amitxv/PC-Tuning/blob/main/docs/post-install.md)
 Now we begin with basic windows changes to do
 
+## Install Visual C++ Redistributable Runtimes
+
+Download and install the [Visual C++ redistributable runtimes](https://github.com/abbodi1406/vcredist).
+
+## Install .NET 4.8 Runtimes
+
+Download and install the [.NET 4.8 runtimes](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48). NET 4.8 already ships with Windows 10 1909+.
+
+## Install DirectX Runtimes
+
+Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/download/details.aspx?id=8109).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend to try out. 
 
