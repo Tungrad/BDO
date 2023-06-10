@@ -49,7 +49,7 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
     Get-MMAgent
     ```
 
-- If anything is set to True, use the command below as an example to disable a given setting
+- If anything is set to True, use the command below as an example to disable a given setting, paste them individually some might return an error
 
     ```powershell
     Disable-MMAgent -MemoryCompression
