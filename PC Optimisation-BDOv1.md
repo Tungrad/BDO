@@ -186,7 +186,7 @@ There are about 3 Tools that i've seen and would recommend trying out.
 **MAKE SURE TO MAKE A RESTORE POINT BEFORE USING AND CHECKING PERFORMANCE IN GAME TO SEE IF ITS A POSITIVE GAIN OR NEGATIVE**
 
 Avoid using all 3 in conjunction with each other and turning on all the settings are more likely to cause issues than improve performance if you do this.
-For the general person I would say go the CTT route and be done, if you're more into minx maxing performance and having a older system I would say to use CTT with hone or just use optimizer on its own.
+For the general person I would say go the CTT route and be done, but feel free to try each on its own I would say optmizer is a solid tool to use on its own also, dont forget to test before making any tweak changes
 
 ### CTT Tool
 I would recommend this for most people but if you want more GAMER oriented tool only then only use the security section of the tool as shown below. 
