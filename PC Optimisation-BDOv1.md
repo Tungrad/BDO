@@ -307,4 +307,5 @@ if you really really really want to try optimise your system further you can loo
 
 Hopefully this guide was helpful and improved your performance 
 
-![image](https://github.com/Tungrad/BDO/assets/126987283/5c26de9f-e654-44be-ae48-7aab5fef9adc)
+![image](https://github.com/Tungrad/BDO/assets/126987283/92f127b1-2c5a-40f7-b4d9-777371b5b7c7)
+
