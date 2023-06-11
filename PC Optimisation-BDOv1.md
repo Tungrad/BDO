@@ -251,7 +251,9 @@ I like to put a max FPS cap on bdo to prevent hitting 6k fps in loading screens 
 Navigate to the bdo bin64 folder which should be located here - C:\Pearlabyss\BlackDesert\bin64 - 
 
 Right click properties and these are what i tick 
-![image](https://github.com/Tungrad/BDO/assets/126987283/8301797b-bf55-4317-8d63-b9e164ced8b1)
+![image](https://github.com/Tungrad/BDO/assets/126987283/d2183cb4-0801-434d-ba4d-5e28cf8f2687)
+
+As always test before and after when making tweaks to see any performance gain or if it has a negative impact.
 
 
 # Msi Tool
