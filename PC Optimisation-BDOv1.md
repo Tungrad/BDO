@@ -183,6 +183,8 @@ for example this
 # Which optimise tool to use.
 There are about 3 Tools that i've seen and would recommend trying out. 
 
+**MAKE SURE TO MAKE A RESTORE POINT BEFORE USING AND CHECKING PERFORMANCE IN GAME TO SEE IF ITS A POSITIVE GAIN OR NEGATIVE**
+
 Avoid using all 3 in conjunction with each other and turning on all the settings are more likely to cause issues than improve performance if you do this.
 For the general person I would say go the CTT route and be done, if you're more into minx maxing performance and having a older system I would say to use CTT with hone or just use optimizer on its own.
 
