@@ -185,7 +185,8 @@ There are about 3 Tools that i've seen and would recommend trying out.
 
 **MAKE SURE TO MAKE A RESTORE POINT BEFORE USING AND CHECKING PERFORMANCE IN GAME TO SEE IF ITS A POSITIVE GAIN OR NEGATIVE**
 
-Avoid using all 3 in conjunction with each other and turning on all the settings are more likely to cause issues than improve performance if you do this.
+Avoid using all 3 in conjunction with each other and turning on all the settings you are more likely to cause more issues than improving performance if you do this.
+
 For the general person I would say go the CTT route and be done, but feel free to try each on its own I would say optmizer is a solid tool to use on its own also, dont forget to test before making any tweak changes
 
 ### CTT Tool
