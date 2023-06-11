@@ -269,6 +269,11 @@ if you use chrome or any other chromium based browser disable this
 
 if you're on fixfox or w/e else is there just disable  hardware acceleration
 
+# Discord
+Disable hardware acceleration in discord also 
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/3b4b89d8-557d-4763-a5d1-e85df20077d1)
+
 #  Ocing
 To get a bit more performance from your system you can look into overclocking, do it at your own risk tho
 
