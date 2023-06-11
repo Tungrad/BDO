@@ -248,6 +248,12 @@ You can use this [regfile](https://cdn.discordapp.com/attachments/82717922421309
 I like to put a max FPS cap on bdo to prevent hitting 6k fps in loading screens copy if you so wish
 ![image](https://github.com/Tungrad/BDO/assets/126987283/c8ccee59-e485-4df8-b212-d02a067cac42)
 
+Navigate to the bdo bin64 folder which should be located here - C:\Pearlabyss\BlackDesert\bin64 - 
+
+Right click properties and these are what i tick 
+![image](https://github.com/Tungrad/BDO/assets/126987283/8301797b-bf55-4317-8d63-b9e164ced8b1)
+
+
 # Msi Tool
 Download the [MSI](http://www.mediafire.com/file/ewpy1p0rr132thk/MSI_util_v3.zip/file) Tool open it as admin , find your gpu and if your gpu is not already ticked tick it, if its unticked and does not have a negative irq value just skip this.
 
