@@ -50,15 +50,6 @@ Download and install the [.NET 4.8 runtimes](https://dotnet.microsoft.com/en-us/
 
 Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/download/details.aspx?id=8109).
 
-## Geforce
-
-If you installed the driver normally or went via the NVcleaninstall route and manually installed geforce
-
-You will want to disable these 3 in the Alt + z menu
-- broadcast live
-- Highlights
-- Photo mode / game filter ( if you use this you can keep it on if not turn it off)
-
 
 ## Remove Bloatware Natively
 
@@ -118,6 +109,29 @@ Find your mouse right click properties and uncheck both in power management [fol
 
 Do the same for your [Network adapters](https://imgur.com/a/TE8LmxV)
 while in the network adapter settings go to the advanced tab and set the following to disabled (Energy efficient ethernet, Green Ethernet,power saving mode)
+
+## Geforce
+
+If you installed the driver normally or went via the NVcleaninstall route and manually installed geforce
+
+You will want to disable these 3 in the Alt + z menu
+- broadcast live
+- Highlights
+- Photo mode / game filter ( if you use this you can keep it on if not turn it off)
+
+## Nvidia control panel 
+Open nvidia control panel then head to program settings located in Manage 3D settings
+![image](https://github.com/Tungrad/BDO/assets/126987283/d69ad0af-ed54-4759-8616-b57bf40eeee0)
+
+Click Add and the browse head to C:\Windows\System32 and look for DWM.exe and add it
+![image](https://github.com/Tungrad/BDO/assets/126987283/6350cffe-cadc-435e-9a9b-d4572bb2aed9)
+
+Find the power management settings and set it to max performance instead of Nvidia  rec and click apply 
+![image](https://github.com/Tungrad/BDO/assets/126987283/48c52111-9141-4da5-9e3d-802d5898b2ea)
+
+Then do the same but for Explorer.exe which is located in C:\Windows
+
+
 
 ## Nvidia inspector 
 Download [inspector](https://www.guru3d.com/files-details/nvidia-inspector-download.html)
