@@ -55,9 +55,9 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 If you installed the driver normally or went via the NVcleaninstall route and manually installed geforce
 
 You will want to disable these 3 in the Alt + z menu
--broadcast live
--Highlights
--Photo mode / game filter ( if you use this you can keep it on if not turn it off)
+- broadcast live
+- Highlights
+- Photo mode / game filter ( if you use this you can keep it on if not turn it off)
 
 
 ## Remove Bloatware Natively
