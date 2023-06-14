@@ -50,6 +50,16 @@ Download and install the [.NET 4.8 runtimes](https://dotnet.microsoft.com/en-us/
 
 Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/download/details.aspx?id=8109).
 
+## Geforce
+
+If you installed the driver normally or went via the NVcleaninstall route and manually installed geforce
+
+You will want to disable these 3 in the Alt + z menu
+-broadcast live
+-Highlights
+-Photo mode / game filter ( if you use this you can keep it on if not turn it off)
+
+
 ## Remove Bloatware Natively
 
 - Open CMD and enter the command below
@@ -111,8 +121,8 @@ while in the network adapter settings go to the advanced tab and set the followi
 
 ## Nvidia inspector 
 Download [inspector](https://www.guru3d.com/files-details/nvidia-inspector-download.html)
-This is my [Base profile](https://cdn.discordapp.com/attachments/200251993766363136/1117438110066806875/Overall_profile.nip)
-and these are 3 BDO profile you can swap between [BDOV1](https://cdn.discordapp.com/attachments/610614436939694141/1116940617042362378/Black_DesertV1.nip). [BDOV2](https://cdn.discordapp.com/attachments/610614436939694141/1116940617428250705/Black_DesertV2.nip). [BDOPotato](https://cdn.discordapp.com/attachments/200251993766363136/1117201307162390639/BDO_potato.nip).
+This is my [Base normal profile](https://cdn.discordapp.com/attachments/200251993766363136/1118356209586675743/Base.nip) my [Tweaked Base](https://cdn.discordapp.com/attachments/200251993766363136/1118356493985661069/Tweaked_base.nip) This should give more fps in all games in general but test it out
+and these are 3 BDO profile you can swap between [BDOV1](https://cdn.discordapp.com/attachments/200251993766363136/1118356896647225444/BDOv1.nip). [BDOV2](https://cdn.discordapp.com/attachments/200251993766363136/1118357437129445477/BDOv2.nip). [BDOPotato](https://cdn.discordapp.com/attachments/200251993766363136/1117201307162390639/BDO_potato.nip).
 
 If you playing BDO play around with this setting Off, On, Ultra with the other bdo profiles i linked before and see what feels the best.![image](https://github.com/Tungrad/BDO/assets/126987283/f51a5a43-8c12-47fa-950d-20f06d434ce4) 
 
