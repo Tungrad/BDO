@@ -256,7 +256,7 @@ Click apply then you will notice the icon off the file looks different now, you 
 
 You can use this [regfile](https://cdn.discordapp.com/attachments/827179224213094421/1105669846693331016/eac.reg) to put EAC to run on low prio your choice if you want to copy this step.
 
-I like to put a max FPS cap on bdo to prevent hitting 6k fps in loading screens copy if you so wish
+I like to put a max FPS cap on bdo to prevent hitting 6k fps in loading screens copy if you so wish also test different options under low latency mode for your setup
 ![image](https://github.com/Tungrad/BDO/assets/126987283/c8ccee59-e485-4df8-b212-d02a067cac42)
 
 Navigate to the bdo bin64 folder which should be located here - C:\Pearlabyss\BlackDesert\bin64 - 
