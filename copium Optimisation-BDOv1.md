@@ -124,7 +124,7 @@ Download [inspector](https://www.guru3d.com/files-details/nvidia-inspector-downl
 This is my [Base normal profile](https://cdn.discordapp.com/attachments/200251993766363136/1118356209586675743/Base.nip) my [Tweaked Base](https://cdn.discordapp.com/attachments/200251993766363136/1118356493985661069/Tweaked_base.nip) This should give more fps in all games in general but test it out
 and these are 3 BDO profile you can swap between [BDOV1](https://cdn.discordapp.com/attachments/200251993766363136/1118356896647225444/BDOv1.nip). [BDOV2](https://cdn.discordapp.com/attachments/200251993766363136/1118357437129445477/BDOv2.nip). [BDOPotato](https://cdn.discordapp.com/attachments/200251993766363136/1117201307162390639/BDO_potato.nip).
 
-If you playing BDO play around with this setting Off, On, Ultra with the other bdo profiles i linked before and see what feels the best.![image](https://github.com/Tungrad/BDO/assets/126987283/f51a5a43-8c12-47fa-950d-20f06d434ce4) 
+If you playing BDO play around with this setting Off, On, Ultra and see what feels the best.![image](https://github.com/Tungrad/BDO/assets/126987283/f51a5a43-8c12-47fa-950d-20f06d434ce4) 
 
 ## Disable  Core Isolation
 Search for Core Isolation in windows search 
