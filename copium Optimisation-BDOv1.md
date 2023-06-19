@@ -110,6 +110,13 @@ Find your mouse right click properties and uncheck both in power management [fol
 Do the same for your [Network adapters](https://imgur.com/a/TE8LmxV)
 while in the network adapter settings go to the advanced tab and set the following to disabled (Energy efficient ethernet, Green Ethernet,power saving mode)
 
+
+## Gamebar
+If you like to use the windows clipping feature you can skip this but i would disable it or removed it
+
+follow this [guide](https://www.groovypost.com/howto/disable-xbox-game-bar-on-windows/#:~:text=Right%2Dclick%20the%20Start%20menu,when%20hitting%20the%20Xbox%20button.) on how to remove / disable gamebar 
+
+
 ## Geforce
 
 If you installed the driver normally or went via the NVcleaninstall route and manually installed geforce
