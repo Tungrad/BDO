@@ -254,11 +254,6 @@ You can use this [regfile](https://cdn.discordapp.com/attachments/82717922421309
 I like to put a max FPS cap on bdo to prevent hitting 6k fps in loading screens copy if you so wish also test different options under low latency mode for your setup
 ![image](https://github.com/Tungrad/BDO/assets/126987283/c8ccee59-e485-4df8-b212-d02a067cac42)
 
-Navigate to the bdo bin64 folder which should be located here - C:\Pearlabyss\BlackDesert\bin64 - 
-
-Right click properties and these are what i tick 
-![image](https://github.com/Tungrad/BDO/assets/126987283/d2183cb4-0801-434d-ba4d-5e28cf8f2687)
-
 As always test before and after when making tweaks to see any performance gain or if it has a negative impact.
 
 
