@@ -16,7 +16,7 @@ Github link for the [tiny11 builder](https://github.com/ntdevlabs/tiny11builder)
 ## Pre install
 If you're going to install a fresh OS i would recommend to pre-download your basic needed drivers (chipset,Lan,GPU) and put them on a folder names "Drivers" for example on a usb or 2nd drive. I would suggest going onto this site - https://ninite.com/ 
 and create a installer of the programs you use, there are tools  later in this guide that have a similar feature but i like to create on of these now incase just kind of a failsafe.
-if you go down the tiny11 path you will not have a browser installed and if you dont know how to use winget i dont skip predownloading drivers and at least download the installer of browser of your choice.
+if you go down the tiny11 path you will not have a browser installed and if you dont know how to use winget, dont skip predownloading drivers and at least download the installer of browser of your choice.
 if you want to try optimise the most performance possible you can look into pre making a debloat driver that you will install later using this [Guide](https://github.com/luke-beep/guide-to-optimizing-windows/blob/main/docs/DRIVER-TWEAKS.md#debloat-nvidia-drivers). 
 
 ## Windows installation 
