@@ -24,7 +24,7 @@ I like to unplug my ethernet cable when installing windows if you're on wifi and
 
 Once in windows install your drivers that you pre-download and restart when promted to, after this i plug in my ethernet cable back in or if you are on wifi connect to your network
 
-Once in windows Install the Ninite file or atleast your browser of choice and download and run [O&O ShutUp](https://www.oo-software.com/en/shutup10) and apply [recommended](https://imgur.com/a/9mhHbh8) settings accept the restore point then go ahead and close out of the program and restart your pc.
+After this run/install the Ninite file or atleast your browser of choice and download and run [O&O ShutUp](https://www.oo-software.com/en/shutup10) and apply [recommended](https://imgur.com/a/9mhHbh8) settings accept the restore point then go ahead and close out of the program and restart your pc.
 
 # Windows post install - bits n pieces stolen from [amitxv guide](https://github.com/amitxv/PC-Tuning/blob/main/docs/post-install.md)
 
