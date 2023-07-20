@@ -5,7 +5,7 @@ Taken info from many resources and put them together in this guide for the avg b
 
 # Choosing your OS!
 Win10 vs Win11
-Pick whichever OS you like better if you're on relatively new CPU i would say go win11.
+Pick whichever OS you like better if you're on relatively new CPU i would say go win11 just slighty better performance on win11 when asking people who have new cpus, but they are basically more or less the same performance so use w/e you like.
 
 General [guide](https://youtube.com/shorts/VfOAjO3BfRc?feature=share) on creating a windows boot usb 
 
