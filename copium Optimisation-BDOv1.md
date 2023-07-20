@@ -89,6 +89,8 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 The sound control window should pop up now, Follow [This](https://imgur.com/a/IpVCXBG) to configure your sound settings 
 
 ## Device manager Settings
+Open device manager
+
 Find your mouse right click properties and uncheck both in power management [following](https://imgur.com/a/9n9VWPw)
 
 Do the same for your [Network adapters](https://imgur.com/a/TE8LmxV)
