@@ -53,13 +53,6 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 
 ## Remove Bloatware Natively
 
-- Open CMD and enter the command below
-
-    - Remove OneDrive if you will not be using it.
-
-        ```bat
-        for %a in ("SysWOW64" "System32") do (if exist "%windir%\%~a\OneDriveSetup.exe" ("%windir%\%~a\OneDriveSetup.exe" /uninstall))
-        ```
 - Windows 10+ Only:
 
     - Windows 10:
@@ -75,7 +68,7 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
         - In the ``Apps -> Optional features`` section, uninstall everything apart from ``WMIC``, ``Windows PowerShell ISE``, ``Notepad (system)`` and ``WordPad``
 
 - Open your start menu with windows key and unpin and uninstall iteams left over in here you will typically see tiktok, clip chimp etx if you didnt go down the tiny11 route.
--  Restart your PC once to apply the changes above
+-  Restart your PC once to apply the changes above but i would hold off on restarting your pc till the end.
 
 
 ## Configure Memory Management Settings (Windows 8+)
@@ -83,18 +76,9 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 - Open PowerShell as admin and enter the command below
 
     ```powershell
-    Get-MMAgent
-    ```
-
-- If anything is set to True, use the command below as an example to disable a given setting, paste them individually some might return an error
-
-    ```powershell
     Disable-MMAgent -MemoryCompression
-    Disable-MMAgent -ApplicationLaunchPrefetching
-    Disable-MMAgent -ApplicationPreLaunch
-    Disable-MMAgent -OperationAPI
-    Disable-MMAgent -PageCombining
-    ```
+  ```
+
 
 
 ## Configure Audio Settings
@@ -109,12 +93,6 @@ Find your mouse right click properties and uncheck both in power management [fol
 
 Do the same for your [Network adapters](https://imgur.com/a/TE8LmxV)
 while in the network adapter settings go to the advanced tab and set the following to disabled (Energy efficient ethernet, Green Ethernet,power saving mode)
-
-
-## Gamebar
-If you like to use the windows clipping feature you can skip this but i would disable it or removed it
-
-follow this [guide](https://www.groovypost.com/howto/disable-xbox-game-bar-on-windows/#:~:text=Right%2Dclick%20the%20Start%20menu,when%20hitting%20the%20Xbox%20button.) on how to remove / disable gamebar 
 
 
 ## Geforce
@@ -143,7 +121,7 @@ Then do the same but for Explorer.exe which is located in C:\Windows
 ## Nvidia inspector 
 Download [inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
 This is standard [Base normal profile](https://cdn.discordapp.com/attachments/200251993766363136/1120460534794432552/Base_clean.nip) that should be fine for everyoen and this is my [Tweaked Base](https://cdn.discordapp.com/attachments/200251993766363136/1118356493985661069/Tweaked_base.nip) This should give more fps in all games in general but test it out
-and these are 3 BDO profile you can swap between [BDOV1](https://cdn.discordapp.com/attachments/200251993766363136/1118356896647225444/BDOv1.nip). [BDOV2](https://cdn.discordapp.com/attachments/200251993766363136/1118357437129445477/BDOv2.nip). [BDOPotato](https://cdn.discordapp.com/attachments/200251993766363136/1117201307162390639/BDO_potato.nip).
+and these are 3 BDO profile you can swap between - currently reworking bdo profiles
 
 If you playing BDO play around with this setting Off, On, Ultra and see what feels the best.![image](https://github.com/Tungrad/BDO/assets/126987283/f51a5a43-8c12-47fa-950d-20f06d434ce4) 
 
@@ -156,7 +134,7 @@ Disable it
 
 ## Powerplan 
 
-I typically like to you the Bitsum powerplan 
+I typically like to suggest the Bitsum powerplan, if you have your own powerplan or like to edit the pre-existing powerplans like balanced to your liking then do so
 [Power plan.zip](https://github.com/Tungrad/BDO/files/11712663/Power.plan.zip)
 
 Unzip folder to your C drive, the path should look like this C:\Plan run the bat file as admin to check it was added successfully open your powerplan settings it should look like this 
@@ -177,11 +155,12 @@ for the BDO gamers my performanced has improved quite a bit from overclocking my
 
 ## W32 Priority Seperation
 
-open regedit and  go to this reg directory at the top - Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl and with this [guide/post](https://forums.blurbusters.com/viewtopic.php?t=8535)
+open regedit and  go to this reg directory at the top - Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl if you would like to read up on this here is the original source post [guide/post](https://forums.blurbusters.com/viewtopic.php?t=8535)
 
 change the value to the ranges listed below, you do not need to restart for this to take effect, so for example defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best
 
-```2A Hex = Short, Fixed , High foreground boost.
+```
+2A Hex = Short, Fixed , High foreground boost.
 29 Hex = Short, Fixed , Medium foreground boost.
 28 Hex = Short, Fixed , No foreground boost.
 
@@ -212,16 +191,16 @@ for example this
 
 
 # Which optimise tool to use.
-There are about 3 Tools that i've seen and would recommend trying out. 
+BOTH CTT and Optimizer are good individually or can be used in conjunction with each other, but in no way necessary they just help automate/ speed run doing certain tweaks manually 
 
 **MAKE SURE TO MAKE A RESTORE POINT BEFORE USING AND CHECKING PERFORMANCE IN GAME TO SEE IF ITS A POSITIVE GAIN OR NEGATIVE**
 
-Avoid using all 3 in conjunction with each other and turning on all the settings you are more likely to cause more issues than improving performance if you do this.
+Avoid using all both in conjunction with each other and turning on all the settings you are more likely to cause more issues than improving performance if you do this.
 
 For the general person I would say go the CTT route and be done, but feel free to try each on its own I would say optmizer is a solid tool to use on its own also, dont forget to test before making any tweak changes
 
 ### CTT Tool
-I would recommend this for most people but if you want more GAMER oriented tool only then only use the security section of the tool as shown below. 
+I would recommend this for most people and be done, but you can use the next tool with this if you so wish, just keep in mind not to do the same tweak on both programs as its a bit redundant to do so.
 Run powershell as admin and paste the command below, Click Y to install chocolatey and then a windows will appear 
 
  ```powershell
@@ -235,7 +214,9 @@ Then head over to the updates tab and select the middle option "security"
 
 
 ### Optimizer
-[Optimizer](https://github.com/hellzerg/optimizer) Overall this tool i think is the best to run on its own and just be done at that it does a bit of what CTT tool does and abit more so for the MIN MAX gamers would say to use this tool and be done with ur pc setup
+[Optimizer](https://github.com/hellzerg/optimizer) Overall great tool has some more tweaks that may or may not increase your performance so test before and after turning on certain tweaks and make sure to have relevant restore points to do so.
+
+Keep in mind to test before and after enabling performance tweaks, so you can know if they are hindering your performance or not.
 
 General tab settings
 ![image](https://github.com/Tungrad/BDO/assets/126987283/4b807195-9d84-4c2a-9a2d-2f73f5318b79)
@@ -268,7 +249,7 @@ Then put this “cmd.exe /C” without the quote marks into the target tab
 
 Click apply then you will notice the icon off the file looks different now, you can have some fun and change the icon of it to make it cooler. also right click properties of the bat file advanced and tick run as admin, you should then be able to pin the file to your taskbar now and open your game.
 
-You can use this [regfile](https://cdn.discordapp.com/attachments/827179224213094421/1105669846693331016/eac.reg) to put EAC to run on low prio your choice if you want to copy this step.
+You can use this [regfile](https://cdn.discordapp.com/attachments/827179224213094421/1105669846693331016/eac.reg) to put EAC to run on low prio your choice if you want to copy this step, just be sure to test this if it improves performance or hinders it.
 
 I like to put a max FPS cap on bdo to prevent hitting 6k fps in loading screens copy if you so wish also test different options under low latency mode for your setup
 ![image](https://github.com/Tungrad/BDO/assets/126987283/c8ccee59-e485-4df8-b212-d02a067cac42)
