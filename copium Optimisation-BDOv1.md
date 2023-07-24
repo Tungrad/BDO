@@ -124,8 +124,7 @@ Then do the same but for Explorer.exe which is located in C:\Windows
 (currently reworking profiles) but base n tweaked should still be fine
 
 Download [inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
-This is standard [Base normal profile](https://cdn.discordapp.com/attachments/200251993766363136/1120460534794432552/Base_clean.nip) that should be fine for everyoen and this is my [Tweaked Base](https://cdn.discordapp.com/attachments/200251993766363136/1118356493985661069/Tweaked_base.nip) This should give more fps in all games in general but test it out
-and these are 3 BDO profile you can swap between - currently reworking bdo profiles
+This is standard [Base normal profile](https://cdn.discordapp.com/attachments/200251993766363136/1120460534794432552/Base_clean.nip) that should be fine for everyoen and this is my [Tweaked Base](https://cdn.discordapp.com/attachments/200251993766363136/1118356493985661069/Tweaked_base.nip) profiles being reworked check back tomorrow.
 
 If you playing BDO play around with this setting Off, On, Ultra and see what feels the best.![image](https://github.com/Tungrad/BDO/assets/126987283/f51a5a43-8c12-47fa-950d-20f06d434ce4) 
 
