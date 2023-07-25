@@ -3,6 +3,8 @@ General PC setup and tweaks for the avg BDO gamer, along with BDO setup i person
 
 Taken info from many resources and put them together in this guide for the avg bdo gamer / casual trying to improve their experience.
 
+this is about 95% of what i do there are some other tweaks but its way to trihard for the avg person and i cba explaining how to do them
+
 # Choosing your OS!
 Win10 vs Win11
 Pick whichever OS you like better if you're on relatively new CPU i would say go win11 just slighty better performance on win11 when asking people who have new cpus, but they are basically more or less the same performance so use w/e you like.
