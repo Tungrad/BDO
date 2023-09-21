@@ -75,6 +75,8 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 
 ## Configure Memory Management Settings (Windows 8+)
 
+If you are on an old system you may see some benefit as alaways i would test with this being off or on and see which gives you the best performance 
+
 - Open PowerShell as admin and enter the command below
 
     ```powershell
