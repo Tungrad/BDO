@@ -156,7 +156,7 @@ Download [msi afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSe
 enable the fan curve and adjust it to your preference 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/bb02743b-209f-4c5b-83a9-6346b2c01d5e)
 
-for the BDO gamers my performanced has improved quite a bit from overclocking my memoryclock a bit so play around with adding a bit more to the mem clock and see if you see positive results 
+for the BDO gamers my performance has improved quite a bit from overclocking my memoryclock a bit so play around with adding a bit more to the mem clock and see if you see positive results 
 
 
 
