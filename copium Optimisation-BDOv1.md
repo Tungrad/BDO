@@ -152,11 +152,31 @@ The sound control window should pop up now, Follow [This](https://imgur.com/a/Ip
 ## Device manager Settings
 Open device manager
 
-Find your mouse right click properties and uncheck both in power management [following](https://imgur.com/a/9n9VWPw)
+if you do not use wifi or bluetooth right click on the devices and disable them like so 
 
-Do the same for your [Network adapters](https://imgur.com/a/TE8LmxV)
-while in the network adapter settings go to the advanced tab and set the following to disabled (Energy efficient ethernet, Green Ethernet,power saving mode)
+![image](https://github.com/Tungrad/BDO/assets/126987283/22d77a4b-6742-45c4-a1dd-120a6a153c30)
 
+To disable all the powersaving features on devices fast and easy paste the following command into Powershell - if you care about powersaving features skip this i guess
+
+ ```powershell
+Get-WmiObject MSPower_DeviceEnable -Namespace root\wmi | ForEach-Object { $_.enable = $false; $_.psbase.put(); }
+ ```
+
+Now right click on your Network adapter that you will be using Wifi or lan one whichever and go to properties and click advanced i will list below what i change in here copy if you so wish up to you
+
+Advanced EEE - Disabled
+ARP Offload - Disabled
+Energy-Efficient Ethernet - Disabled
+Gigabit Lite - Disabled
+Green Ethernet - Disabled
+Interrupt Moderation - Disabled
+Jumbo Frame - Disabled
+Ns Offload - Disabled
+Power Saving Mode - Disabled
+Shutdown Wake-On-Lan - Disabled
+Wake on Magic Packet - Disabled
+Wake on pattern match - Disabled
+WOL & Shutdown LinkSpeed - Disabled
 
 ## Geforce
 
