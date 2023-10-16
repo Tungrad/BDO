@@ -69,6 +69,51 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
         - Uninstall bloatware in ``Apps -> Installed apps`` by pressing ``Win+I`` uninstall programs you will not be using
 
         - In the ``Apps -> Optional features`` section, uninstall everything apart from ``WMIC``, ``Windows PowerShell ISE``, ``Notepad (system)`` and ``WordPad``
+     
+- Automated     
+If you prefer to have this done automatically then you can copy and paste the following into PowerShell it will pretty much remove everyting apart from calculator, notepad and terminal so keep that in mind if you use any of the default windows apps, you can go into the store and down load them again.
+
+ ```powershell
+dism /online /norestart /disable-feature /featurename:Printing-PrintToPDFServices-Features
+dism /online /norestart /disable-feature /featurename:Printing-XPSServices-Features
+dism /online /norestart /disable-feature /featurename:WorkFolders-Client
+dism /online /norestart /disable-feature /featurename:Printing-Foundation-Features
+dism /online /norestart /disable-feature /featurename:Printing-Foundation-InternetPrinting-Client
+dism /online /norestart /disable-feature /featurename:MSRDC-Infrastructure
+dism /online /norestart /disable-feature /featurename:SmbDirect
+dism /online /norestart /disable-feature /featurename:MediaPlayback
+dism /online /norestart /disable-feature /featurename:WCF-TCP-PortSharing45
+dism /online /norestart /disable-feature /featurename:WCF-Services45
+dism /online /norestart /disable-feature /featurename:WindowsMediaPlayer
+dism /online /norestart /disable-feature /FeatureName:MicrosoftWindowsPowerShellV2Root
+
+ ```
+
+ ```powershell
+dism /online /norestart /Remove-Capability /CapabilityName:App.StepsRecorder~~~~0.0.1.0
+dism /online /norestart /Remove-Capability /CapabilityName:App.Support.QuickAssist~~~~0.0.1.0
+dism /online /norestart /Remove-Capability /CapabilityName:Browser.InternetExplorer~~~~0.0.11.0
+dism /online /norestart /Remove-Capability /CapabilityName:Hello.Face.20134~~~~0.0.1.0
+dism /online /norestart /Remove-Capability /CapabilityName:Language.Handwriting~~~en-US~0.0.1.0
+dism /online /norestart /Remove-Capability /CapabilityName:Language.Speech~~~en-US~0.0.1.0
+dism /online /norestart /Remove-Capability /CapabilityName:Language.TextToSpeech~~~en-US~0.0.1.0
+dism /online /norestart /Remove-Capability /CapabilityName:MathRecognizer~~~~0.0.1.0
+dism /online /norestart /Remove-Capability /CapabilityName:Media.WindowsMediaPlayer~~~~0.0.12.0
+dism /online /norestart /Remove-Capability /CapabilityName:Microsoft.Windows.WordPad~~~~0.0.1.0
+dism /online /norestart /Remove-Capability /CapabilityName:OneCoreUAP.OneSync~~~~0.0.1.0
+dism /online /norestart /Remove-Capability /CapabilityName:OpenSSH.Client~~~~0.0.1.0
+dism /online /norestart /Remove-Capability /CapabilityName:Print.Management.Console~~~~0.0.1.0
+dism /online /norestart /Remove-Capability /CapabilityName:Microsoft.Wallpapers.Extended~~~~0.0.1.0
+
+ ```
+
+ ```powershell
+powershell "Get-AppXPackage | Where NonRemovable -Match false | Where IsFramework -Match false | Where Name -NotMatch '.*Windows(Store|Notepad|Calculator|Terminal|Paint)|NVIDIAControlPanel.*' | Remove-AppXPackage"
+powershell "sleep 5"
+powershell "Get-AppXProvisionedPackage -online | Where DisplayName -NotMatch '.*Windows(Store|Notepad|Calculator|Terminal)|NVIDIAControlPanel.*' | ForEach-Object { try { Write-Host $_.DisplayName ; Remove-AppxProvisionedPackage -Online -PackageName $_.PackageName  } catch { Write-Host $_ } }"
+
+
+ ```
 
 - Open your start menu with windows key and unpin and uninstall items left over in here you will typically see tiktok, clip chimp etx if you didnt go down the tiny11 route.
 -  Restart your PC once to apply the changes above but i would hold off on restarting your pc till the end.
