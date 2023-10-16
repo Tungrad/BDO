@@ -211,6 +211,15 @@ Or you can try out this alternative one
 [2nd Power plan](https://github.com/Tungrad/BDO/blob/main/Power.bat) click downloand on the top right and run it as admin and it should automatically add and set it to active plan
 
 
+#Group policy edit cope
+
+If you have windows pro version you can click windows key + r and type gpedit.msc 
+![image](https://github.com/Tungrad/BDO/assets/126987283/c5053516-cc36-4cbb-b71e-cc4d1b4da9a6)
+like so to open the application
+
+
+
+
 
 ## MSI AFTERBURNER
 Download [msi afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1686574187~acl=/*~hmac=76ef0d51e24860e0101c2c76cba86e3ffab24219ab8a6fbd4bedd5ba98c73163)
