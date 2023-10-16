@@ -303,7 +303,9 @@ for the BDO gamers my performance has improved quite a bit from overclocking my 
 
 open regedit and  go to this reg directory at the top - ``Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl`` if you would like to read up on this here is the original source post [guide/post](https://forums.blurbusters.com/viewtopic.php?t=8535)
 
-change the value to the ranges listed below, you do not need to restart for this to take effect, so for example defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best. The 2 best performing ones for me are ``16`` or ``26`` just to give you an idea
+change the value to the ranges listed below, you do not need to restart for this to take effect, so for example defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best. 
+
+The 2 best performing ones for me are `` 16 `` or `` 26 `` just to give you an idea
 
 ```
 2A Hex = Short, Fixed , High foreground boost.
@@ -343,6 +345,11 @@ file with some regedit tweaks taken from all the copium guides from the past may
 
 [EAC Regedit](https://cdn.discordapp.com/attachments/200251993766363136/1163453296720220251/eac.reg?ex=653fa151&is=652d2c51&hm=f5bcf61c8119cdeac71da07b5ae69d9dc721b3413b4ffe303dcd978a06dc5e19&)
 
+## Cope Tweak 
+
+  ```bat
+        bcdedit /set disabledynamictick yes
+        ```
 
 
 # Which optimise tool to use.
