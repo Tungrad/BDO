@@ -341,6 +341,23 @@ I typically Search in the top for edge and disable everything as i do not use it
 if you're not familiar with services and tasks I wouldnt disable more than edge unless you actually use it then skip this ofc
 
 
+
+# Extra cope
+
+Find the location of the bdo exe typically found in here C:\Pearlabyss\BlackDesert\bin64 , Right click on the exe and click properties and then go to the compatibility tab tick disable full screen opti..
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/f11ce4c2-4477-42e5-8f7d-4c6007c78ab7)
+
+then click change high dpi settings and copy shown
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/05a5a16b-6c9f-4478-9ff0-381bd610d586)
+
+just cope cope cope maybe helps worth a shot
+
+
+
+
+
 # Regedit tweaks
 file with some regedit tweaks taken from all the copium guides from the past maybe it helps maybe it doesnt always test before and after.
 
