@@ -164,19 +164,21 @@ Get-WmiObject MSPower_DeviceEnable -Namespace root\wmi | ForEach-Object { $_.ena
 
 Now right click on your Network adapter that you will be using, be it  Wifi or lan one whichever and go to properties and click advanced i will list below what i change in here copy if you so wish up to you
 
-Advanced EEE - Disabled
-ARP Offload - Disabled
-Energy-Efficient Ethernet - Disabled
-Gigabit Lite - Disabled
-Green Ethernet - Disabled
-Interrupt Moderation - Disabled
-Jumbo Frame - Disabled
-Ns Offload - Disabled
-Power Saving Mode - Disabled
-Shutdown Wake-On-Lan - Disabled
-Wake on Magic Packet - Disabled
-Wake on pattern match - Disabled
-WOL & Shutdown LinkSpeed - Disabled
+- Advanced EEE - Disabled
+- ARP Offload - Disabled
+- Energy-Efficient Ethernet - Disabled
+- Gigabit Lite - Disabled
+- Green Ethernet - Disabled
+- Interrupt Moderation - Disabled
+- Jumbo Frame - Disabled
+- Ns Offload - Disabled
+- Power Saving Mode - Disabled
+- Shutdown Wake-On-Lan - Disabled
+- Wake on Magic Packet - Disabled
+- Wake on pattern match - Disabled
+- WOL & Shutdown LinkSpeed - Disabled
+
+ Now do the following
 
 - Open ``Network Connections`` by typing ``ncpa.cpl`` in ``Win+R``
 
@@ -244,13 +246,13 @@ Or you can try out this alternative one
 
 # Group policy edit cope
 
-If you have windows pro version you can click windows key + r and type gpedit.msc like so to open the application
+If you have windows pro version you can click ``windows key + r`` and type ``gpedit.msc`` like so to open the application
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/c5053516-cc36-4cbb-b71e-cc4d1b4da9a6)
 
 if you are not on a pro version you an use [This](https://github.com/Fleex255/PolicyPlus) to do the same thing basically 
 
-one you have one of the 2 programs open first you are going to go to Administative templats -> Network -> QoS Packet Scheduler on here you will see these 3 options 
+one you have one of the 2 programs open first you are going to go to ``Administative templats`` -> ``Network`` -> ``QoS Packet Scheduler`` on here you will see these 3 options 
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/1956958b-f0de-48dd-84e1-70da42882945)
 
@@ -270,7 +272,7 @@ Paste this into powershell make sure to run it as admin
  Enable-NetAdapterBinding -Name "*" -ComponentID ms_pacer
  ```
 
-Now we go back to the program you was just using, Open windows settings and then click on Plicy-based QoS - right click and create new policy
+Now we go back to the program you was just using, now head to  ``Windows settings`` and then click on ``Policy-based QoS`` - right click and create new policy
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/2bf4a9ea-e158-4c1e-91ae-118cae936fea)
 
