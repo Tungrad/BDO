@@ -149,7 +149,7 @@ If you are on an old system you may see some benefit as alaways i would test wit
  ```
 The sound control window should pop up now, Follow [This](https://imgur.com/a/IpVCXBG) to configure your sound settings 
 
-## Device manager Settings
+## Device manager/network settings
 Open device manager
 
 if you do not use wifi or bluetooth right click on the devices and disable them like so 
@@ -177,6 +177,17 @@ Shutdown Wake-On-Lan - Disabled
 Wake on Magic Packet - Disabled
 Wake on pattern match - Disabled
 WOL & Shutdown LinkSpeed - Disabled
+
+- Open ``Network Connections`` by typing ``ncpa.cpl`` in ``Win+R``
+
+- Disable any unused network adapters if you disabled wifi before hand you will see it being disdabled here also, then right-click your main one and select ``Properties``
+
+- Disable all items except ``QoS Packet Scheduler`` and ``Internet Protocol Version 4 (TCP/IPv4)``
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/dc32d641-0089-4846-b12e-1244e469b33b)
+
+- Disable ``NetBIOS over TCP/IP`` in ``Internet Protocol Version 4 (TCP/IPv4) -> Properties -> General -> Advanced -> WINS`` to [prevent unnecessary system listening](https://github.com/djdallmann/GamingPCSetup/blob/master/CONTENT/DOCS/NETWORK/README.md) for all network adapters
+
 
 ## Geforce
 
