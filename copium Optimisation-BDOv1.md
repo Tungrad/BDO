@@ -71,7 +71,7 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
         - In the ``Apps -> Optional features`` section, uninstall everything apart from ``WMIC``, ``Windows PowerShell ISE``, ``Notepad (system)`` and ``WordPad``
      
 - Automated     
-If you prefer to have this done automatically then you can copy and paste the following into PowerShell it will pretty much remove everyting apart from calculator, notepad and terminal so keep that in mind if you use any of the default windows apps, you can go into the store and down load them again.
+If you prefer to have this done automatically then you can copy and paste the following into PowerShell it will pretty much remove everyting apart from calculator, notepad and terminal so keep that in mind if you use any of the default windows apps, you can go into the store and download them again.
 
  ```powershell
 dism /online /norestart /disable-feature /featurename:Printing-PrintToPDFServices-Features
