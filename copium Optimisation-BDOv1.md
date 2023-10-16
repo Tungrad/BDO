@@ -333,9 +333,12 @@ The 2 best performing ones for me are `` 16 `` or `` 26 `` just to give you an i
 Download autoruns [here](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
 Open it as admin and wait for everything to load on the bottom left will say ready once its done.
 
-I typically Search in the top for edge and disable everything as i do no use it 
+I typically Search in the top for edge and disable everything as i do not use it for example 
 
- if you're not familiar with services and tasks I wouldnt disable more than edge unless you actually use it 
+![image](https://github.com/Tungrad/BDO/assets/126987283/3e1442ff-5e5d-495e-a071-f91fdb9066e2)
+
+
+if you're not familiar with services and tasks I wouldnt disable more than edge unless you actually use it then skip this ofc
 
 
 # Regedit tweaks
@@ -346,10 +349,10 @@ file with some regedit tweaks taken from all the copium guides from the past may
 [EAC Regedit](https://cdn.discordapp.com/attachments/200251993766363136/1163453296720220251/eac.reg?ex=653fa151&is=652d2c51&hm=f5bcf61c8119cdeac71da07b5ae69d9dc721b3413b4ffe303dcd978a06dc5e19&)
 
 ## Cope Tweak 
-
+may or may not improve your performance as always test it for urself and make restore points
   ```bat
-        bcdedit /set disabledynamictick yes
-        ```
+   bcdedit /set disabledynamictick yes
+```
 
 
 # Which optimise tool to use.
