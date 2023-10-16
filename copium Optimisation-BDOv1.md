@@ -162,7 +162,7 @@ To disable all the powersaving features on devices fast and easy paste the follo
 Get-WmiObject MSPower_DeviceEnable -Namespace root\wmi | ForEach-Object { $_.enable = $false; $_.psbase.put(); }
  ```
 
-Now right click on your Network adapter that you will be using Wifi or lan one whichever and go to properties and click advanced i will list below what i change in here copy if you so wish up to you
+Now right click on your Network adapter that you will be using, be it  Wifi or lan one whichever and go to properties and click advanced i will list below what i change in here copy if you so wish up to you
 
 Advanced EEE - Disabled
 ARP Offload - Disabled
