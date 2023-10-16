@@ -249,12 +249,9 @@ for example this
 # Regedit tweaks
 file with some regedit tweaks taken from all the copium guides from the past maybe it helps maybe it doesnt always test before and after.
 
+[General cope tweaks]()
 
-
-[Uploading Windows Registry Editor Version 5.00
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\EasyAntiCheat.exe\PerfOptions]
-"CpuPriorityClass"=dword:00000001eac.reg…]()
+[EAC Regedit](https://cdn.discordapp.com/attachments/200251993766363136/1163453296720220251/eac.reg?ex=653fa151&is=652d2c51&hm=f5bcf61c8119cdeac71da07b5ae69d9dc721b3413b4ffe303dcd978a06dc5e19&)
 
 
 
