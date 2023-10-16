@@ -211,14 +211,49 @@ Or you can try out this alternative one
 [2nd Power plan](https://github.com/Tungrad/BDO/blob/main/Power.bat) click downloand on the top right and run it as admin and it should automatically add and set it to active plan
 
 
-#Group policy edit cope
+# Group policy edit cope
 
-If you have windows pro version you can click windows key + r and type gpedit.msc 
+If you have windows pro version you can click windows key + r and type gpedit.msc like so to open the application
+
 ![image](https://github.com/Tungrad/BDO/assets/126987283/c5053516-cc36-4cbb-b71e-cc4d1b4da9a6)
-like so to open the application
+
+if you are not on a pro version you an use [This](https://github.com/Fleex255/PolicyPlus) to do the same thing basically 
+
+one you have one of the 2 programs open first you are going to go to Administative templats -> Network -> QoS Packet Scheduler on here you will see these 3 options 
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/1956958b-f0de-48dd-84e1-70da42882945)
+
+First click limit reservable bandwidth and copy what i have dont forget to click apply and okay
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/0622e1a0-e07e-48e4-9cce-551001cb70cf)
+
+now you open set timer resolution and copy what i have again dont forget to click apply and okay
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/f62ec2c2-e8c8-47ef-a2cd-34ff0b27427e)
 
 
+Now we move over to more extra cope 
 
+Paste this into powershell make sure to run it as admin
+ ```powershelle
+ Enable-NetAdapterBinding -Name "*" -ComponentID ms_pacer
+ ```
+
+Now we go back to the program you was just using, Open windows settings and then click on Plicy-based QoS - right click and create new policy
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/2bf4a9ea-e158-4c1e-91ae-118cae936fea)
+
+now copy the DSCP value you can name it what ever you want i just name it BlackDesert and then click next
+![image](https://github.com/Tungrad/BDO/assets/126987283/7a4244f7-780c-47a6-91c1-4aabb394826e)
+
+copy what i have here 
+![image](https://github.com/Tungrad/BDO/assets/126987283/f64b9393-5a2c-4ecd-9c8d-2e885e623546)
+
+Click Next on the next page till you see this page and copy what i have in the first drop down bax TCP and UDP
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/f290621a-bd1d-4164-b1af-f770d83fb65b)
+
+and then just click finish and you're done with this 
 
 
 ## MSI AFTERBURNER
