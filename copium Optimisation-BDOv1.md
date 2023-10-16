@@ -128,8 +128,19 @@ If you are on an old system you may see some benefit as alaways i would test wit
     ```powershell
     Disable-MMAgent -MemoryCompression
   ```
+ ```powershell
+    Disable-MMAgent -ApplicationPreLaunch
+  ```
 
+- Paste the next 2 in CMD
+  
+ ```powershell
+    reg add "HKLM\SYSTEM\CurrentControlSet\Services\SysMain" /v "Start" /t REG_DWORD /d "4" /f
+  ```
+ ```powershell
+    reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters" /v EnablePrefetcher /t REG_DWORD /d 0 /f
 
+  ```
 
 ## Configure Audio Settings
 - Press Win + R to open the Run Command dialog box.
