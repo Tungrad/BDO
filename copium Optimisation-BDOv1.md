@@ -194,6 +194,9 @@ Unzip folder to your C drive, the path should look like this C:\Plan run the bat
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/5d47a12e-2f8c-472c-9c1e-6176ddcb1508)
 
+Or you can try out this alternative one
+[2nd Power plan](https://github.com/Tungrad/BDO/blob/main/Power.bat) click downloand on the top right and run it as admin and it should automatically add and set it to active plan
+
 
 
 ## MSI AFTERBURNER
@@ -248,6 +251,10 @@ file with some regedit tweaks taken from all the copium guides from the past may
 
 
 
+[Uploading Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\EasyAntiCheat.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000001eac.reg…]()
 
 
 
