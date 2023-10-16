@@ -174,7 +174,9 @@ Then do the same but for Explorer.exe which is located in C:\Windows
 (currently reworking profiles) but base n tweaked should still be fine
 
 Download [inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
-This is standard [Base normal profile](https://cdn.discordapp.com/attachments/200251993766363136/1133172575997014068/Base_Profile.nip) that should be fine for everyone and this is my [Tweaked Base](https://cdn.discordapp.com/attachments/200251993766363136/1133172576512917734/slight_tweak.nip) you dont need to make any changes to bdo profile specifically unless you want to go potato mode the general tweaks are set into the base profile, low latency mode and threaded you must experiment yourself with it on or off, low / ultra and see whats best for your system
+This is standard [Base normal profile](https://cdn.discordapp.com/attachments/200251993766363136/1133172575997014068/Base_Profile.nip) that should be fine for everyone and this is my [Tweaked Base](https://cdn.discordapp.com/attachments/200251993766363136/1133172576512917734/slight_tweak.nip) you dont need to make any changes to bdo profile specifically unless you want to go potato mode the general tweaks are set into the base profile, low latency mode and threaded you must experiment yourself with it on or off, low / ultra and see whats best for your system.
+
+If you have your own base profile you prefer, here are 2 of the bdo profiles i switch between [1st BDO Profile](https://cdn.discordapp.com/attachments/200251993766363136/1163455037423485009/BDO1.nip?ex=653fa2f0&is=652d2df0&hm=1b278fa94cb401ca6a1158aac5ec777c4814f70bee2e8cd82b87f57234097abe&) [2nd BDO Profile](https://cdn.discordapp.com/attachments/200251993766363136/1163455037050200184/BDO2.nip?ex=653fa2f0&is=652d2df0&hm=81886a577f5992c81b54c0fdf88801d298f52ef85e77a38e82dca82f1748c031&)
 
 If you playing BDO play around with this setting Off, On, Ultra and see what feels the best.![image](https://github.com/Tungrad/BDO/assets/126987283/f51a5a43-8c12-47fa-950d-20f06d434ce4) 
 
