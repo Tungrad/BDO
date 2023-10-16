@@ -301,9 +301,9 @@ for the BDO gamers my performance has improved quite a bit from overclocking my 
 
 ## W32 Priority Seperation
 
-open regedit and  go to this reg directory at the top - Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl if you would like to read up on this here is the original source post [guide/post](https://forums.blurbusters.com/viewtopic.php?t=8535)
+open regedit and  go to this reg directory at the top - ``Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl`` if you would like to read up on this here is the original source post [guide/post](https://forums.blurbusters.com/viewtopic.php?t=8535)
 
-change the value to the ranges listed below, you do not need to restart for this to take effect, so for example defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best. The 2 best performing ones for me are 16 or 26 just to give you an idea
+change the value to the ranges listed below, you do not need to restart for this to take effect, so for example defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best. The 2 best performing ones for me are ``16`` or ``26`` just to give you an idea
 
 ```
 2A Hex = Short, Fixed , High foreground boost.
@@ -331,9 +331,9 @@ change the value to the ranges listed below, you do not need to restart for this
 Download autoruns [here](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
 Open it as admin and wait for everything to load on the bottom left will say ready once its done.
 
-I would only touch the scheduled tasks tab and services tab for me personally i untick anything edge related
-for example this 
-![image](https://github.com/Tungrad/BDO/assets/126987283/88d684ab-7db0-4b72-8aa2-e08c81194387)
+I typically Search in the top for edge and disable everything as i do no use it 
+
+ if you're not familiar with services and tasks I wouldnt disable more than edge unless you actually use it 
 
 
 # Regedit tweaks
