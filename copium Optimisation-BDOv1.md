@@ -355,7 +355,10 @@ then click change high dpi settings and copy shown
 just cope cope cope maybe helps worth a shot
 
 
+# EXRTRAAAA COPE 
 
+
+Now call me crazy but this may fix stuttering issues or general BDO issues, if you have DONE everything and still experiencing issues then Go into BDO and click the Reset ALL button this will reset eveything so you will need to setup your UI and BDO settings all over again i guess this would be a last resort but this has made my own bdo more stable and smoother somehow idk dont ask me why. **YOUR MILEAGE MAY VARY** 
 
 
 # Regedit tweaks
