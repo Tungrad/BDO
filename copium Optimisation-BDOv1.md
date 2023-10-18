@@ -341,6 +341,14 @@ I typically Search in the top for edge and disable everything as i do not use it
 if you're not familiar with services and tasks I wouldnt disable more than edge unless you actually use it then skip this ofc
 
 
+# Disable CFG BDO
+
+
+
+im too lazy to type follow vid
+
+https://github.com/Tungrad/BDO/assets/126987283/c15b01f2-efb0-4849-81d4-add91c005a7e
+
 
 # Extra cope
 
