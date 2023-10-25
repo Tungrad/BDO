@@ -1,4 +1,4 @@
-# General windows / BDO setup -  will be updating soonTM
+# General windows / BDO setup -  **will be updating soonTM**
 
 General PC setup and tweaks for the avg BDO gamer, along with BDO setup i personally do, will cover a basic general setup and will go more in depth down the rabbit hole of trying to optimise  your PC. 
 
