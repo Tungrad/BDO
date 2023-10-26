@@ -298,7 +298,9 @@ open regedit and  go to this reg directory at the top - ``Computer\HKEY_LOCAL_MA
 
 change the value to the ranges listed below, you do not need to restart for this to take effect, so for example defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best. 
 
-The 2 best performing ones for me are `` 16 `` or `` 26 `` just to give you an idea in the cope regfile i have it set to 26 which is typically the best most of the time so keep that in mind if u run the regfile if u wanna fuck around with this
+The 2 best performing ones for me are `` 16 `` or `` 26 `` just to give you an idea.
+
+In the cope regfile i have it set to 26 which is typically the best most of the time so keep that in mind if u run the regfile if u wanna fuck around with this
 
 ```
 2A Hex = Short, Fixed , High foreground boost.
