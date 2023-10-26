@@ -308,7 +308,7 @@ open regedit and  go to this reg directory at the top - ``Computer\HKEY_LOCAL_MA
 
 change the value to the ranges listed below, you do not need to restart for this to take effect, so for example defualt value is 2 change it to 26 apply it and play your games / stream whichever you do with your pc and see which feels best. 
 
-The 2 best performing ones for me are `` 16 `` or `` 26 `` just to give you an idea
+The 2 best performing ones for me are `` 16 `` or `` 26 `` just to give you an idea in the cope regfile i have it set to 26 which is typically the best most of the time so keep that in mind if u run the regfile if u wanna fuck around with this
 
 ```
 2A Hex = Short, Fixed , High foreground boost.
@@ -386,7 +386,7 @@ Now call me crazy but this may fix stuttering issues or general BDO issues, if y
 # Regedit tweaks
 file with some regedit tweaks taken from all the copium guides from the past maybe it helps maybe it doesnt always test before and after.
 
-[General cope tweaks](https://cdn.discordapp.com/attachments/200251993766363136/1163881906165792868/COPE.reg?ex=6541307e&is=652ebb7e&hm=ee9ac869ca7bd28b52bc40f7ae663b67aeb9829d61b5105b10758efe6f03d47d&)
+[General cope tweaks](https://cdn.discordapp.com/attachments/200251993766363136/1166924789986889788/COPEV2.reg?ex=654c4266&is=6539cd66&hm=aab04702a81e89caa866d66fcf8eeadccf13eb515a6500d05587c80bbfa8b764&)
 
 [EAC Regedit](https://cdn.discordapp.com/attachments/200251993766363136/1163453296720220251/eac.reg?ex=653fa151&is=652d2c51&hm=f5bcf61c8119cdeac71da07b5ae69d9dc721b3413b4ffe303dcd978a06dc5e19&)
 
