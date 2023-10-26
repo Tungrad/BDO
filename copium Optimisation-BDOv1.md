@@ -257,13 +257,8 @@ if you are not on a pro version you an use [This](https://github.com/Fleex255/Po
 
 one you have one of the 2 programs open first you are going to go to ``Administative templats`` -> ``Network`` -> ``QoS Packet Scheduler`` on here you will see these 3 options 
 
-![image](https://github.com/Tungrad/BDO/assets/126987283/1956958b-f0de-48dd-84e1-70da42882945)
 
-First click limit reservable bandwidth and copy what i have dont forget to click apply and okay
-
-![image](https://github.com/Tungrad/BDO/assets/126987283/0622e1a0-e07e-48e4-9cce-551001cb70cf)
-
-now you open set timer resolution and copy what i have again dont forget to click apply and okay
+open set timer resolution and copy what i have again dont forget to click apply and okay
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/f62ec2c2-e8c8-47ef-a2cd-34ff0b27427e)
 
