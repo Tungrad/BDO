@@ -497,6 +497,7 @@ Open CMD as admin and run the following the commands, wait for each command to f
    sfc /scannow
 ```
 
+restart your pc once done with everything. 
 
 
 #  Ocing
