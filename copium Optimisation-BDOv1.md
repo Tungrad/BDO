@@ -220,6 +220,8 @@ Then do the same but for Explorer.exe which is located in C:\Windows
 ## Nvidia inspector 
 (currently reworking profiles) but base n tweaked should still be fine
 
+Gonna be making a zip file with the different inspector profiles n shit u can fuck around with these i have uploaded
+
 Download [inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
 This is standard [Base normal profile](https://cdn.discordapp.com/attachments/200251993766363136/1133172575997014068/Base_Profile.nip) that should be fine for everyone and this is my [Tweaked Base](https://cdn.discordapp.com/attachments/200251993766363136/1133172576512917734/slight_tweak.nip) you dont need to make any changes to bdo profile specifically unless you want to go potato mode the general tweaks are set into the base profile, low latency mode and threaded you must experiment yourself with it on or off, low / ultra and see whats best for your system.
 
