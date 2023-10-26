@@ -360,16 +360,22 @@ https://github.com/Tungrad/BDO/assets/126987283/a4ba0270-5ce4-4137-bd53-bb5476c4
 
 # Extra cope
 
-Find the location of the bdo exe typically found in here C:\Pearlabyss\BlackDesert\bin64 , Right click on the exe and click properties and then go to the compatibility tab tick disable full screen opti..
+Find the location of the bdo exe typically found in here C:\Pearlabyss\BlackDesert\bin64 , Right click on the exe and click properties and then go to the compatibility tab tick disable full screen opti and run as admin
 
-![image](https://github.com/Tungrad/BDO/assets/126987283/f11ce4c2-4477-42e5-8f7d-4c6007c78ab7)
+![image](https://github.com/Tungrad/BDO/assets/126987283/301200b4-7c7f-47c8-9ff8-95b40dc725a2)
+
 
 then click change high dpi settings and copy shown
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/05a5a16b-6c9f-4478-9ff0-381bd610d586)
 
-just cope cope cope maybe helps worth a shot
+Now do this for the bdo launcher that's typically located in C:\Pearlabyss\BlackDesert , Right click on the exe and click properties and then go to the compatibility tab tick disable full screen opti and run as admin
 
+![image](https://github.com/Tungrad/BDO/assets/126987283/100e8f31-98cb-4938-8dac-cfedc6f2c9ab)
+
+then click change high dpi settings and copy shown
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/05a5a16b-6c9f-4478-9ff0-381bd610d586)
 
 # EXTRAAAAAA COPE 
 
