@@ -268,12 +268,7 @@ now you open set timer resolution and copy what i have again dont forget to clic
 ![image](https://github.com/Tungrad/BDO/assets/126987283/f62ec2c2-e8c8-47ef-a2cd-34ff0b27427e)
 
 
-Now we move over to more extra cope 
-
-Paste this into powershell make sure to run it as admin
- ```powershelle
- Enable-NetAdapterBinding -Name "*" -ComponentID ms_pacer
- ```
+Now we move over to more extra **COPE** 
 
 Now we go back to the program you was just using, now head to  ``Windows settings`` and then click on ``Policy-based QoS`` - right click and create new policy
 
