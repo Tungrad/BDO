@@ -480,7 +480,7 @@ Disable hardware acceleration in discord also
 ![image](https://github.com/Tungrad/BDO/assets/126987283/3b4b89d8-557d-4763-a5d1-e85df20077d1)
 
 
-# Scan for corrupted files DSIM n SFC 
+# Scan for corrupted files DISM n SFC 
 
 Open CMD as admin and run the following the commands, wait for each command to finish before pasting the next
 
