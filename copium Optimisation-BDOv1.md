@@ -351,7 +351,11 @@ if you're not familiar with services and tasks I wouldnt disable more than edge 
 im too lazy to type follow vid
 
 
-https://github.com/Tungrad/BDO/assets/126987283/effd3824-25a1-4105-a77a-434be702d845
+
+
+https://github.com/Tungrad/BDO/assets/126987283/a4ba0270-5ce4-4137-bd53-bb5476c4baaf
+
+
 
 
 # Extra cope
