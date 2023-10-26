@@ -479,6 +479,26 @@ Disable hardware acceleration in discord also
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/3b4b89d8-557d-4763-a5d1-e85df20077d1)
 
+
+# Scan for corrupted files DSIM n SFC 
+
+Open CMD as admin and run the following the commands, wait for each command to finish before pasting the next
+
+ ```bat
+   DISM /Online /Cleanup-Image /CheckHealth
+```
+ ```bat
+   DISM /Online /Cleanup-Image /ScanHealth
+```
+ ```bat
+   DISM /Online /Cleanup-Image /RestoreHealth
+```
+ ```bat
+   sfc /scannow
+```
+
+
+
 #  Ocing
 To get a bit more performance from your system you can look into overclocking, do it at your own risk tho
 
