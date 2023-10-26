@@ -1,5 +1,5 @@
 
-# will be updating soonTM
+# Updating in bits n pieces its more so 99% done but im lazy af
 
 # General windows / BDO setup -  
 
