@@ -356,6 +356,15 @@ https://github.com/Tungrad/BDO/assets/126987283/a4ba0270-5ce4-4137-bd53-bb5476c4
 https://www.youtube.com/watch?v=CAxuGjdahd0&t=157s
 
 
+# Keker pc high ram usage use this 
+
+https://www.sordum.org/9197/reduce-memory-v1-6/
+
+settings i use 
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/e2d0aacb-53c0-4282-a3ad-1e06bbe6c5fa)
+
+
 # Extra cope
 
 Find the location of the bdo exe typically found in here C:\Pearlabyss\BlackDesert\bin64 , Right click on the exe and click properties and then go to the compatibility tab tick disable full screen opti and run as admin
