@@ -351,6 +351,10 @@ https://github.com/Tungrad/BDO/assets/126987283/a4ba0270-5ce4-4137-bd53-bb5476c4
 
 
 
+# Can help fix stutters give it a shot
+
+https://www.youtube.com/watch?v=CAxuGjdahd0&t=157s
+
 
 # Extra cope
 
