@@ -338,6 +338,15 @@ I typically Search in the top for edge and disable everything as i do not use it
 if you're not familiar with services and tasks I wouldnt disable more than edge unless you actually use it then skip this ofc
 
 
+
+# Set high performance windows setting
+
+in the graphics tab in windows select both launcher and bin64 client and set both to High Performance like in the image shownm, you should be able to figure it out where this is if you dont know exactly by looking at the image below im lazy.
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/f4874ad6-c803-43c6-a3c3-79ab87964258)
+
+
+
 # Disable CFG BDO
 
 
