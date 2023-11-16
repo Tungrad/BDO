@@ -20,7 +20,7 @@ If you go down the windows 11 path would say try out [tiny11](https://youtu.be/q
 Github link for the [tiny11 builder](https://github.com/ntdevlabs/tiny11builder)
 
 ### AME playbook on windows is also a good choice
-After a Windows installation (preferably fresh), you can play [AME](https://ameliorated.io/) Playbook.
+After a Windows installation (preferably fresh) - 10 or 11 is only your preference -, you can play [AME](https://ameliorated.io/) Playbook.
 You can now choose which OS you want [ReviOS](https://revi.cc/revios/download) is a good choice. You can also choose [AtlasOS](https://atlasos.net/)
 
 Basically, thoses playbook clean up your windows installation, and remove any useless Microsoft component.
