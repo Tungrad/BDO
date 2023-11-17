@@ -338,6 +338,13 @@ I typically Search in the top for edge and disable everything as i do not use it
 if you're not familiar with services and tasks I wouldnt disable more than edge unless you actually use it then skip this ofc
 
 
+# Disable GameBar Presence Writer
+follow this [short](https://youtube.com/shorts/vaRdiUOZklA?si=zf8ScD1fSstcyVAL)
+
+if hes yapping too fast follow [this](https://www.youtube.com/watch?v=103jcfT9dmc) instead
+
+
+
 
 # Set high performance windows setting
 
