@@ -236,6 +236,8 @@ open set timer resolution and copy what i have again dont forget to click apply 
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/f62ec2c2-e8c8-47ef-a2cd-34ff0b27427e)
 
+## SUPER OMEGA GROUP POLICY EDIT COPE ON UR KNEES TYPE COPE
+
 
 Now we move over to more omega extra  **COPE** u can skip this but if u coping hard then go ahead
 
