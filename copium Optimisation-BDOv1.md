@@ -194,6 +194,20 @@ Search for Core Isolation in windows search
 Disable it 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/672b99ed-e2b7-440f-9e61-860650f3f7f7)
 
+
+# Game Mode
+
+For some games Having this Off improves FPS and performance like in cs go this was the case for me while in bdo the performance was the same so you should test this on your own 
+
+If you wanna be on the safe side and cba testing just turn this off 
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/fc5c30ca-9b63-4c15-ae2a-ea4bcbbf56a7)
+
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/ac4df746-629f-45c9-98a4-40e09621eadc)
+
+
+
 ## Powerplan 
 
 I typically like to suggest the Bitsum powerplan, if you have your own powerplan or like to edit the pre-existing powerplans like balanced to your liking then do so
