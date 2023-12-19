@@ -199,7 +199,7 @@ Disable it
 
 For some games Having this Off improves FPS and performance like in cs go this was the case for me while in bdo the performance was the same so you should test this on your own 
 
-If you wanna be on the safe side and cba testing just turn this off 
+If you wanna be lazy and cba testing just turn this off 
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/fc5c30ca-9b63-4c15-ae2a-ea4bcbbf56a7)
 
