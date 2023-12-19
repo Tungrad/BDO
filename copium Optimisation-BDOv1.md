@@ -514,6 +514,10 @@ Open CMD as admin and run the following the commands, wait for each command to f
 restart your pc once done with everything. 
 
 
+# Getting ads on twitch ? stop being a keker buy nitro or use this 
+https://github.com/pixeltris/TwitchAdSolutions
+
+
 #  Ocing
 To get a bit more performance from your system you can look into overclocking, do it at your own risk tho
 
