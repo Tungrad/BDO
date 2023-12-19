@@ -173,6 +173,17 @@ Find the power management settings and set it to max performance instead of Nvid
 
 Then do the same but for Explorer.exe which is located in C:\Windows
 
+## Scaling 
+
+tldr lower latency depending on which option you set it to it will provide lower latency 
+typcally ppl suggest if you have a good gpu setting it to GPU scaling will provide the lowest lvl latency and if you have a weak / old gpu setting it to display would provide lower latency 
+
+I got a decent GPU so i have it set to GPU scaling on both of my monitors
+
+![image](https://github.com/Tungrad/BDO/assets/126987283/62c0cc45-38e9-4d29-9cc3-91d3c642c264)
+
+
+
 
 
 ## Nvidia inspector 
