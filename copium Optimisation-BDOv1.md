@@ -393,16 +393,6 @@ Download it [here](https://www.dropbox.com/scl/fi/wranqdshjct7phn4ib9oh/XDDD.reg
 
 
 
-## Cope Tweak 
-may or may not improve your performance as always test it for urself and make restore points
-  ```bat
-   bcdedit /set disabledynamictick yes
-```
-if it fucks up your pc or gaming performance use a restore point or disable it with this 
-  ```bat
-   bcdedit /set disabledynamictick no
-```
-
 # Which optimise tool to use.
 BOTH CTT and Optimizer are good individually or can be used in conjunction with each other, but in no way necessary they just help automate/ speed run doing certain tweaks manually 
 
