@@ -420,22 +420,12 @@ Run powershell as admin and paste the command below, Click Y to install chocolat
  iwr -useb https://christitus.com/win | iex
  ```
  Head over to the Tweaks tab and these are what i have ticked feel free to copy. Click run tweaks when done selecting
-![image](https://github.com/Tungrad/BDO/assets/126987283/559ac5e8-7036-46ca-be37-0c248444148b)
+ ![image](https://github.com/Tungrad/BDO/assets/126987283/7dad788d-55a4-4a2a-a306-f1408291d9d3)~
 
-Then head over to the updates tab and select the middle option "security"
-![image](https://github.com/Tungrad/BDO/assets/126987283/235cf578-3d91-4ed2-a4af-d0e122380b0b)
+and in the update tab i select the middle option
+![image](https://github.com/Tungrad/BDO/assets/126987283/b310efc5-997b-4c9c-a306-be055d2d760a)
 
 
-### Optimizer
-[Optimizer](https://github.com/hellzerg/optimizer) Overall great tool has some more tweaks that may or may not increase your performance so test before and after turning on certain tweaks and make sure to have relevant restore points to do so.
-
-Keep in mind to test before and after enabling performance tweaks, so you can know if they are hindering your performance or not.
-
-General tab settings
-![image](https://github.com/Tungrad/BDO/assets/126987283/4b807195-9d84-4c2a-9a2d-2f73f5318b79)
-
-Windows 10/11 settings
-![image](https://github.com/Tungrad/BDO/assets/126987283/f6803075-ff43-4bd1-8593-06dfa110420e)
 
 
 # BDO setup
