@@ -386,11 +386,12 @@ Now call me crazy but this may fix stuttering issues or general BDO issues, if y
 
 
 # Regedit tweaks
-file with some regedit tweaks taken from all the copium guides from the past maybe it helps maybe it doesnt always test before and after.
+this is the reg file i always apply on my windows up to you if you want to also you can open the file and check it yourself and only apply certain ones up to you
 
-[General cope tweaks](https://cdn.discordapp.com/attachments/200251993766363136/1166924789986889788/COPEV2.reg?ex=654c4266&is=6539cd66&hm=aab04702a81e89caa866d66fcf8eeadccf13eb515a6500d05587c80bbfa8b764&)
 
-[EAC Regedit](https://cdn.discordapp.com/attachments/200251993766363136/1163453296720220251/eac.reg?ex=653fa151&is=652d2c51&hm=f5bcf61c8119cdeac71da07b5ae69d9dc721b3413b4ffe303dcd978a06dc5e19&)
+Download it [here](https://www.dropbox.com/scl/fi/wranqdshjct7phn4ib9oh/XDDD.reg?rlkey=fb4munkn22jihtasfat3i8f6z&st=hcp4h5u2&dl=0)
+
+
 
 ## Cope Tweak 
 may or may not improve your performance as always test it for urself and make restore points
