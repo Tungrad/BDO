@@ -451,8 +451,8 @@ Then put this “cmd.exe /C” without the quote marks into the target tab
 ![image](https://github.com/Tungrad/BDO/assets/126987283/19621c10-2622-4d15-8780-a0343a8b0b13)
 
 Click apply then you will notice the icon off the file looks different now, you can have some fun and change the icon of it to make it cooler. also right click properties of the bat file advanced and tick run as admin, you should then be able to pin the file to your taskbar now and open your game.
+keep in mind if you wanna set your own icon to make it cooler make sure the image dimensions are 64x64 pixels and ico format
 
-You can use this [regfile](https://cdn.discordapp.com/attachments/827179224213094421/1105669846693331016/eac.reg) to put EAC to run on low prio your choice if you want to copy this step, just be sure to test this if it improves performance or hinders it.
 
 I like to put a max FPS cap on bdo to prevent hitting 6k fps in loading screens copy if you so wish also test different options under low latency mode for your setup
 ![image](https://github.com/Tungrad/BDO/assets/126987283/c8ccee59-e485-4df8-b212-d02a067cac42)
