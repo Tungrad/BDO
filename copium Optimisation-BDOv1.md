@@ -11,13 +11,8 @@ this is about 95% of what i do there are some other tweaks but its way to trihar
 
 # Choosing your OS!
 Win10 vs Win11
-Pick whichever OS you like better if you're on relatively new CPU i would say go win11 just slighty better performance on win11 when asking people who have new cpus, but they are basically more or less the same performance so use w/e you like.
-
+Pick whichever OS you like better if you're on relatively new intel CPU i would say go win11 just slighty better performance on win11.
 General [guide](https://youtube.com/shorts/VfOAjO3BfRc?feature=share) on creating a windows boot usb 
-
-If you go down the windows 11 path would say try out [tiny11](https://youtu.be/qiF30VGfGhA?t=172) cuts out most of the reinstalled apps which you will not have to remove later on your own (edge is completely removed in tiny11) 
-
-Github link for the [tiny11 builder](https://github.com/ntdevlabs/tiny11builder)
 
 ## Pre install
 If you're going to install a fresh OS i would recommend to pre-download your basic needed drivers (chipset,Lan,GPU) and put them on a folder names "Drivers" for example on a usb or 2nd drive. I would suggest going onto this site - https://ninite.com/ 
@@ -127,14 +122,28 @@ Now right click on your Network adapter that you will be using, be it  Wifi or l
 
 - Advanced EEE - Disabled
 - ARP Offload - Disabled
+- EEE Max Support Speed - ﻿1.0 Gbps Full Duplex
 - Energy-Efficient Ethernet - Disabled
 - Gigabit Lite - Disabled
 - Green Ethernet - Disabled
 - Interrupt Moderation - Disabled
+- IPv4 Checksum Offload - Rx & Tx Enabled
 - Jumbo Frame - Disabled
+- Large Send Offload v2 (IPv4) - Disabled
+- Large Send Offload v2 (IPv6) - Disabled
+- Maximum Number of RSS Queues - 4 Queues
 - Ns Offload - Disabled
 - Power Saving Mode - Disabled
+- Priority & VLAN - Disabled
+- Receive Buffers - 512
+- Receive Side Scaling - Enabled
 - Shutdown Wake-On-Lan - Disabled
+- Speed & Duplex - Auto
+- TCP Checksum Offload (IPv4) - Disabled
+- TCP Checksum Offload (IPv6) - Disabled
+- Transmit Buffers - 1024
+- UDP Checksum Offload (IPv4) - Disabled
+- UDP Checksum Offload (IPv6) - Disabled
 - Wake on Magic Packet - Disabled
 - Wake on pattern match - Disabled
 - WOL & Shutdown LinkSpeed - Disabled
@@ -219,17 +228,22 @@ If you wanna be lazy and cba testing just turn this off
 
 
 
-## Powerplan 
+## Powerplan / unpark cpu / cpu freq 100%
+Download [This](https://bitsum.com/parkcontrol/) tool 
+once open 
+copy my settings and click apply
+![image](https://github.com/Tungrad/BDO/assets/126987283/47f57c2c-864e-46de-9f60-46a3ed1dd3cc)
 
-I typically like to suggest the Bitsum powerplan, if you have your own powerplan or like to edit the pre-existing powerplans like balanced to your liking then do so
-[Power plan.zip](https://github.com/Tungrad/BDO/files/11712663/Power.plan.zip)
+Then install the power plan 
+![image](https://github.com/Tungrad/BDO/assets/126987283/f3d50838-fb3c-4159-bda9-819112fd6c67)
 
-Unzip folder to your C drive, the path should look like this C:\Plan run the bat file as admin to check it was added successfully open your powerplan settings it should look like this 
+Select it at the top and make active once all done click apply again to make sure 
+![image](https://github.com/Tungrad/BDO/assets/126987283/27573ed1-0565-4a22-8bcd-b0f10a3ddd69)
 
-![image](https://github.com/Tungrad/BDO/assets/126987283/5d47a12e-2f8c-472c-9c1e-6176ddcb1508)
+then at the top disable this 
+![image](https://github.com/Tungrad/BDO/assets/126987283/fdb01a96-63e4-4b95-940e-358ed246b0ec)
 
-Or you can try out this alternative one
-[2nd Power plan](https://github.com/Tungrad/BDO/blob/main/Power.bat) click downloand on the top right and run it as admin and it should automatically add and set it to active plan
+click okay and close the application you're done with this 
 
 
 # Group policy edit cope
@@ -247,26 +261,6 @@ open set timer resolution and copy what i have again dont forget to click apply 
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/f62ec2c2-e8c8-47ef-a2cd-34ff0b27427e)
 
-## SUPER OMEGA GROUP POLICY EDIT COPE ON UR KNEES TYPE COPE
-
-
-Now we move over to more omega extra  **COPE** u can skip this but if u coping hard then go ahead
-
-Now we go back to the program you was just using, now head to  ``Windows settings`` and then click on ``Policy-based QoS`` - right click and create new policy
-
-![image](https://github.com/Tungrad/BDO/assets/126987283/2bf4a9ea-e158-4c1e-91ae-118cae936fea)
-
-now copy the DSCP value you can name it what ever you want i just name it BlackDesert and then click next
-![image](https://github.com/Tungrad/BDO/assets/126987283/7a4244f7-780c-47a6-91c1-4aabb394826e)
-
-copy what i have here 
-![image](https://github.com/Tungrad/BDO/assets/126987283/f64b9393-5a2c-4ecd-9c8d-2e885e623546)
-
-Click Next on the next page till you see this page and copy what i have in the first drop down bax TCP and UDP
-
-![image](https://github.com/Tungrad/BDO/assets/126987283/f290621a-bd1d-4164-b1af-f770d83fb65b)
-
-and then just click finish and you're done with this 
 
 
 ## MSI AFTERBURNER
@@ -287,7 +281,7 @@ change the value to the ranges listed below, you do not need to restart for this
 
 The 2 best performing ones for me are `` 16 `` or `` 26 `` just to give you an idea.
 
-In the cope regfile i have it set to 26 which is typically the best most of the time so keep that in mind if u run the regfile if u wanna fuck around with this
+
 
 ```
 2A Hex = Short, Fixed , High foreground boost.
