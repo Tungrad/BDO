@@ -71,7 +71,7 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 
 
 
-- Open your start menu with windows key and unpin and uninstall items left over in here you will typically see tiktok, clip chimp etx if you didnt go down the tiny11 route.
+- Open your start menu with windows key and unpin and uninstall items left over in here you will typically see tiktok etc
 -  Restart your PC once to apply the changes above but i would hold off on restarting your pc till the end.
 
 
