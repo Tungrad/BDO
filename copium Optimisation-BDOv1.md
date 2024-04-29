@@ -400,16 +400,6 @@ this is the reg file i always apply on my windows up to you if you want to also 
 Download it [here](https://www.dropbox.com/scl/fi/wranqdshjct7phn4ib9oh/XDDD.reg?rlkey=fb4munkn22jihtasfat3i8f6z&st=hcp4h5u2&dl=0)
 
 
-
-# Which optimise tool to use.
-BOTH CTT and Optimizer are good individually or can be used in conjunction with each other, but in no way necessary they just help automate/ speed run doing certain tweaks manually 
-
-**MAKE SURE TO MAKE A RESTORE POINT BEFORE USING AND CHECKING PERFORMANCE IN GAME TO SEE IF ITS A POSITIVE GAIN OR NEGATIVE**
-
-Avoid using all both in conjunction with each other and turning on all the settings you are more likely to cause more issues than improving performance if you do this.
-
-For the general person I would say go the CTT route and be done, but feel free to try each on its own I would say optmizer is a solid tool to use on its own also, dont forget to test before making any tweak changes
-
 ### CTT Tool
 I would recommend this for most people and be done, but you can use the next tool with this if you so wish, just keep in mind not to do the same tweak on both programs as its a bit redundant to do so.
 Run powershell as admin and paste the command below, Click Y to install chocolatey and then a windows will appear 
