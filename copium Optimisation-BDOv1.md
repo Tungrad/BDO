@@ -124,6 +124,7 @@ Now right click on your Network adapter that you will be using, be it  Wifi or l
 - ARP Offload - Disabled
 - EEE Max Support Speed - ﻿1.0 Gbps Full Duplex
 - Energy-Efficient Ethernet - Disabled
+- Flow Control - Disabled
 - Gigabit Lite - Disabled
 - Green Ethernet - Disabled
 - Interrupt Moderation - Disabled
