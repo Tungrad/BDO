@@ -229,9 +229,9 @@ If you wanna be lazy and cba testing just turn this off
 
 # HAGS
 you will need to test with your hardware if its worth having this on or off for the games you play most often but general rule of thumb is 
--Balanced Hardware - Off
--Strong CPU, Weak GPU - Off
--Weak CPU, Strong GPU - On
+- Balanced Hardware - Off
+- Strong CPU, Weak GPU - Off
+- Weak CPU, Strong GPU - On
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/d777bff5-3504-4b93-9587-1762edcd2d68)
 
