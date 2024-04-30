@@ -431,6 +431,8 @@ Rename the file to BDO.bat then right click and edit it in the file put in this 
 
 Change the path on the first line to you bdo install if its different to mine, you will then need to go to the [canadian](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit#heading=h.v9tozbpj4fx) mf guide, go to the CPU performance tab in his guide and get the number prefix for the Yournumber that you will need to edit in the bat file you just made.
 
+I have 5554 in mine just for example
+
 If you a new bozo follow the entire guide if not then you then only focus on the CPU performance section. overall it's a good guide.
 
 Once you have the number needed for your CPU in the bat file done cut and paste the bat file into your BDO install directory mine is this “C:\Pearlabyss\BlackDesert”
