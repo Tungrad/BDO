@@ -405,7 +405,7 @@ You can also run this one also if you so wish [reg](https://www.dropbox.com/scl/
 
 
 ### CTT Tool
-I would recommend this for most people and be done, but you can use the next tool with this if you so wish, just keep in mind not to do the same tweak on both programs as its a bit redundant to do so.
+I would recommend this for most people and be done, there are some other windows debloat tools but idk i just have my own script to uninstall the bs 
 Run powershell as admin and paste the command below, Click Y to install chocolatey and then a windows will appear 
 
  ```powershell
