@@ -401,6 +401,8 @@ this is the reg file i always apply on my windows up to you if you want to also 
 
 Download it [here](https://www.dropbox.com/scl/fi/wranqdshjct7phn4ib9oh/XDDD.reg?rlkey=fb4munkn22jihtasfat3i8f6z&st=hcp4h5u2&dl=0)
 
+You can also run this one also if you so wish [reg](https://www.dropbox.com/scl/fi/inufb4tsw4co4lmmp3j5a/HOHOHO.reg?rlkey=nwxtbpvi47rha0lri1v0ha8ne&st=ocix4uuw&dl=0)
+
 
 ### CTT Tool
 I would recommend this for most people and be done, but you can use the next tool with this if you so wish, just keep in mind not to do the same tweak on both programs as its a bit redundant to do so.
