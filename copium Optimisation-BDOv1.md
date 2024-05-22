@@ -360,6 +360,7 @@ https://github.com/Tungrad/BDO/assets/126987283/a4ba0270-5ce4-4137-bd53-bb5476c4
 
 https://www.youtube.com/watch?v=CAxuGjdahd0&t=157s
 
+link for file dl if you want find it [here](https://web.archive.org/web/20220927205631/https://wj32.org/wp/software/empty-standby-list/)
 
 # Keker pc high ram usage use this 
 
