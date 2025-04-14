@@ -43,9 +43,9 @@ If you are on an old system you may see some benefit as alaways i would test wit
 
 - Open PowerShell as admin and enter the command below
 
-  ```powershell
+```powershell
     Disable-MMAgent -MemoryCompression
-  ```
+ ```
  ```powershell
     Disable-MMAgent -ApplicationPreLaunch
   ```
