@@ -133,18 +133,6 @@ You will want to disable these 3 in the Alt + z menu
 - Highlights
 - Photo mode / game filter ( if you use this you can keep it on if not turn it off)
 
-## Nvidia control panel 
-Open nvidia control panel then head to program settings located in Manage 3D settings
-![image](https://github.com/Tungrad/BDO/assets/126987283/d69ad0af-ed54-4759-8616-b57bf40eeee0)
-
-Click Add and the browse head to C:\Windows\System32 and look for DWM.exe and add it
-![image](https://github.com/Tungrad/BDO/assets/126987283/6350cffe-cadc-435e-9a9b-d4572bb2aed9)
-
-Find the power management settings and set it to max performance instead of Nvidia  rec and click apply 
-![image](https://github.com/Tungrad/BDO/assets/126987283/48c52111-9141-4da5-9e3d-802d5898b2ea)
-
-Then do the same but for Explorer.exe which is located in C:\Windows
-
 
 ## Nvidia inspector 
 (currently reworking profiles) but base n tweaked should still be fine
@@ -170,7 +158,6 @@ Disable it
 
 For some games Having this Off improves FPS and performance like in cs go this was the case for me while in bdo the performance was the same so you should test this on your own 
 
-If you wanna be lazy and cba testing just turn this off 
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/fc5c30ca-9b63-4c15-ae2a-ea4bcbbf56a7)
 
@@ -178,13 +165,9 @@ If you wanna be lazy and cba testing just turn this off
 ![image](https://github.com/Tungrad/BDO/assets/126987283/ac4df746-629f-45c9-98a4-40e09621eadc)
 
 # HAGS
-you will need to test with your hardware if its worth having this on or off for the games you play most often but general rule of thumb is 
-- Balanced Hardware - Off
-- Strong CPU, Weak GPU - Off
-- Weak CPU, Strong GPU - On
+you will need to test with your hardware if its worth having this on or off for the games you play
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/d777bff5-3504-4b93-9587-1762edcd2d68)
-
 
 
 
