@@ -1,5 +1,5 @@
 
-# Updating in bits n pieces its more so 99% done but im lazy af
+# Updating for 2025
 
 # General windows / BDO setup -  
 
@@ -9,16 +9,6 @@ Taken info from many resources and put them together in this guide for the avg b
 
 this is about 95% of what i do there are some other tweaks but its way to trihard for the avg person and i cba explaining how to do them if you wanna know what else i do ask me in discord ig
 
-# Choosing your OS!
-Win10 vs Win11
-Pick whichever OS you like better if you're on relatively new intel CPU i would say go win11 just slighty better performance on win11.
-General [guide](https://youtube.com/shorts/VfOAjO3BfRc?feature=share) on creating a windows boot usb 
-
-## Pre install
-If you're going to install a fresh OS i would recommend to pre-download your basic needed drivers (chipset,Lan,GPU) and put them on a folder names "Drivers" for example on a usb or 2nd drive. I would suggest going onto this site - https://ninite.com/ 
-and create a installer of the programs you use, there are tools  later in this guide that have a similar feature but i like to create on of these now incase just kind of a failsafe.
-if you go down the tiny11 path you will not have a browser installed and if you dont know how to use winget, dont skip predownloading drivers and at least download the installer of browser of your choice.
-if you want to try optimise the most performance possible you can look into pre making a debloat driver that you will install later using this [Guide](https://github.com/luke-beep/guide-to-optimizing-windows/blob/main/docs/DRIVER-TWEAKS.md#debloat-nvidia-drivers). 
 
 ## Windows installation 
 I like to unplug my ethernet cable when installing windows if you're on wifi and not using a cable you will not need to worry about this. 
