@@ -1,6 +1,8 @@
 
 # Updating for 2025
 
+i will clean up the guide a bit and remove stuff everyone knows to do etc.
+
 # General windows / BDO setup -  
 
 General PC setup and tweaks for the avg BDO gamer, along with BDO setup i personally do, will cover a basic general setup and will go more in depth down the rabbit hole of trying to optimise  your PC. 
@@ -14,15 +16,6 @@ this is about 95% of what i do there are some other tweaks but its way to trihar
 
 best way to setup your windows when you reinstall using autounattend.xml to do so. 
 you can watch this [general](https://youtu.be/VapEEf4k7Eo?si=WFdYwriim6xHC0LU) video or this [one](https://youtu.be/pDEZDD_gEbo?si=rk-oLK8aZwzcxhYX) 
-
-## DISABLE Mouse acceleration!!!!
-- Press Win + R to open the Run Command dialog box. paste the command into the box that pops up i will only say this once you're not this dumb to not realise you need to do this.
- ```powershell
- main.cpl
- ```
-Untick this
-
-![image](https://github.com/Tungrad/BDO/assets/126987283/66252b28-5463-46c4-93d5-c64bcbfefff0)
 
 
 ## Install Visual C++ Redistributable Runtimes
