@@ -33,25 +33,8 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 
 ## Remove Bloatware Natively
 
-- Windows 10+ Only:
-
-    - Windows 10:
-
-        - Uninstall bloatware in ``Apps -> Apps and Features`` by pressing ``Win+I`` uninstall programs you will not be using
-
-        - In the ``Optional features`` section, uninstall everything apart from ``Microsoft Paint``, ``Notepad`` and ``WordPad`` if applicable (these do not exist in earlier Windows 10 versions)
-
-    - Windows 11:
-
-        - Uninstall bloatware in ``Apps -> Installed apps`` by pressing ``Win+I`` uninstall programs you will not be using
-
-        - In the ``Apps -> Optional features`` section, uninstall everything apart from ``WMIC``, ``Windows PowerShell ISE``, ``Notepad (system)`` and ``WordPad``
-     
-
-
-
-- Open your start menu with windows key and unpin and uninstall items left over in here you will typically see tiktok etc
--  Restart your PC once to apply the changes above but i would hold off on restarting your pc till the end.
+go to your installed apps and uninstall all the useless shit you do not use or need.
+If you used the autounattended method when reinstalling windows you wont have to deal with this step. 
 
 
 ## Configure Memory Management Settings (Windows 8+)
