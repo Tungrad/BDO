@@ -10,8 +10,9 @@ Taken info from many resources and put them together in this guide for the avg b
 this is about 95% of what i do there are some other tweaks but its way to trihard for the avg person and i cba explaining how to do them if you wanna know what else i do ask me in discord ig
 
 
-## Windows installation 
+## Windows installation updated 2025
 
+best way to setup your windows when you reinstall using [autounattend.xml](https://youtu.be/VapEEf4k7Eo?si=WFdYwriim6xHC0LU) to do so
 
 ## DISABLE Mouse acceleration!!!!
 - Press Win + R to open the Run Command dialog box. paste the command into the box that pops up i will only say this once you're not this dumb to not realise you need to do this.
