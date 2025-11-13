@@ -150,6 +150,9 @@ For some games Having this Off improves FPS and others having it on improves FPS
 
 # HAGS
 you will need to test with your hardware if its worth having this on or off for the games you play, like game mode generally having it on it better in most cases
+
+
+
 <img width="861" height="429" alt="image" src="https://github.com/user-attachments/assets/837d5bc0-287e-4796-9951-a59c5471de0a" />
 
 
