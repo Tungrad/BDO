@@ -133,6 +133,7 @@ Search for Core Isolation in windows search
 <img width="773" height="243" alt="image" src="https://github.com/user-attachments/assets/bca07c9c-1fe2-4ee7-bb01-5d2fcb522068" />
 
 Disable it 
+
 <img width="596" height="546" alt="image" src="https://github.com/user-attachments/assets/ba0af2cc-817a-4ccf-b4da-ce6557855c42" />
 
 
