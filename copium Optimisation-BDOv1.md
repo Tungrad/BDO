@@ -130,10 +130,11 @@ If you playing BDO play around with this setting Off, On, Ultra and see what fee
 
 ## Disable  Core Isolation
 Search for Core Isolation in windows search 
-![image](https://github.com/Tungrad/BDO/assets/126987283/f8326b29-2912-4469-8786-1c66ff1168e3)
+<img width="773" height="243" alt="image" src="https://github.com/user-attachments/assets/bca07c9c-1fe2-4ee7-bb01-5d2fcb522068" />
 
 Disable it 
-![image](https://github.com/Tungrad/BDO/assets/126987283/672b99ed-e2b7-440f-9e61-860650f3f7f7)
+<img width="596" height="546" alt="image" src="https://github.com/user-attachments/assets/ba0af2cc-817a-4ccf-b4da-ce6557855c42" />
+
 
 
 # Game Mode
@@ -144,9 +145,9 @@ For some games Having this Off improves FPS and others having it on improves FPS
 
 
 # HAGS
-you will need to test with your hardware if its worth having this on or off for the games you play
+you will need to test with your hardware if its worth having this on or off for the games you play, like game mode generally having it on it better in most cases
+<img width="861" height="429" alt="image" src="https://github.com/user-attachments/assets/837d5bc0-287e-4796-9951-a59c5471de0a" />
 
-![image](https://github.com/Tungrad/BDO/assets/126987283/d777bff5-3504-4b93-9587-1762edcd2d68)
 
 
 
