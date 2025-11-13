@@ -309,11 +309,24 @@ Run powershell as admin and paste the command below, Click Y to install chocolat
  ```powershell
  iwr -useb https://christitus.com/win | iex
  ```
- Head over to the Tweaks tab and these are what i have ticked feel free to copy. Click run tweaks when done selecting
- ![image](https://github.com/Tungrad/BDO/assets/126987283/7dad788d-55a4-4a2a-a306-f1408291d9d3)~
+ Head over to the Tweaks tab and these are what i have ticked feel free to copy. Click run tweaks when done selecting also click and run OO Shutup
+ 
+<img width="1920" height="1147" alt="image" src="https://github.com/user-attachments/assets/59448603-5af8-45f7-a110-07bd6f10a452" />
+
+<img width="222" height="40" alt="image" src="https://github.com/user-attachments/assets/71d2f0b6-e20a-4522-a1e2-7ed7c6239052" />
+
+
 
 and in the update tab i select the middle option
-![image](https://github.com/Tungrad/BDO/assets/126987283/b310efc5-997b-4c9c-a306-be055d2d760a)
+
+<img width="1920" height="1147" alt="image" src="https://github.com/user-attachments/assets/4f8902d6-932a-4200-9f50-5217c3eedf20" />
+
+
+
+Open services tab and find this service inthe image and set it to manual or disabled 
+
+<img width="698" height="28" alt="image" src="https://github.com/user-attachments/assets/0aa9a9fe-1fa8-4b1b-95f3-1e6d32a31f7e" />
+
 
 
 
@@ -353,7 +366,9 @@ As always test before and after when making tweaks to see any performance gain o
 
 
 # Msi Tool
-Download the [MSI](http://www.mediafire.com/file/ewpy1p0rr132thk/MSI_util_v3.zip/file) Tool open it as admin , find your gpu and if your gpu is not already ticked tick it, if its unticked and does not have a negative irq value just skip this.
+Download the [MSI](http://www.mediafire.com/file/ewpy1p0rr132thk/MSI_util_v3.zip/file) Tool open it as admin , find your gpu and if your gpu is not already ticked tick it and set the priority to high, if its unticked and does not have a negative irq value just skip this
+
+
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/e126c0fe-a6de-4ac4-b3d4-391aa0071d8a)
 
