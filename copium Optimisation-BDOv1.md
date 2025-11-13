@@ -99,9 +99,10 @@ Now right click on your Network adapter that you will be using, be it  Wifi or l
 
 - Disable any unused network adapters if you disabled wifi before hand you will see it being disdabled here also, then right-click your main one and select ``Properties``
 
-- Disable all items except ``QoS Packet Scheduler`` and ``Internet Protocol Version 4 (TCP/IPv4)``
+- I Disable all items except ``Internet Protocol Version 4 (TCP/IPv4)`` and ``Internet Protocol Version 6 (TCP/IPv6)`` for ``QoS Packet Scheduler`` some ppl its better to have it ticked others not, untick it first and see if your internet experience and gaming experience gets worse if not then keep it unticked
 
-![image](https://github.com/Tungrad/BDO/assets/126987283/dc32d641-0089-4846-b12e-1244e469b33b)
+<img width="363" height="468" alt="image" src="https://github.com/user-attachments/assets/42a988e0-4b7f-488f-94bd-db88801f44c0" />
+
 
 - Disable ``NetBIOS over TCP/IP`` in ``Internet Protocol Version 4 (TCP/IPv4) -> Properties -> General -> Advanced -> WINS`` to [prevent unnecessary system listening](https://github.com/djdallmann/GamingPCSetup/blob/master/CONTENT/DOCS/NETWORK/README.md) for all network adapters
 
