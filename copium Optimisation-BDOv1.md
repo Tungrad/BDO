@@ -136,7 +136,16 @@ Then press alt+z and in the ui go into highlights disable it
 
 ## Nvidia inspector 
 
-[Uploading 5 Nvidia Settings.ps1…]()
+Download and run this [script](https://www.dropbox.com/scl/fi/wpa2ny8wtbkfgygn64306/Nvidia-Settings.ps1?rlkey=lo2qgcxnneftz7z1bama2od9c&st=ae2po3tg&dl=0) to apply a general good insepctor profile and call it a day
+
+
+you need to enable scripts to run it so search for it 
+
+<img width="750" height="313" alt="image" src="https://github.com/user-attachments/assets/72352b08-461e-46a8-8ad9-936dbc8de19e" />
+
+
+and enable it 
+<img width="861" height="130" alt="image" src="https://github.com/user-attachments/assets/11623459-2f34-49ef-9066-0cc8df90a5b3" />
 
 
 
