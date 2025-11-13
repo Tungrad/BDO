@@ -71,21 +71,22 @@ Now right click on your Network adapter that you will be using, be it  Wifi or l
 - Gigabit Lite - Disabled
 - Green Ethernet - Disabled
 - Interrupt Moderation - Disabled
-- IPv4 Checksum Offload - Rx & Tx Enabled
+- IPv4 Checksum Offload - Disabled
 - Jumbo Frame - Disabled
 - Large Send Offload v2 (IPv4) - Disabled
 - Large Send Offload v2 (IPv6) - Disabled
-- Maximum Number of RSS Queues - 4 Queues
+- Maximum Number of RSS Queues - 2 Queues
 - Ns Offload - Disabled
 - Power Saving Mode - Disabled
-- Priority & VLAN - Disabled
-- Receive Buffers - 512
+- Priority & VLAN - Priority & VLAN Enabled
+- Receive Buffers - 4096 ( if yours doesnt go that high put 2048 if you cant put that use 1024)
 - Receive Side Scaling - Enabled
+- Selective Suspend - Disabled
 - Shutdown Wake-On-Lan - Disabled
 - Speed & Duplex - Auto
 - TCP Checksum Offload (IPv4) - Disabled
 - TCP Checksum Offload (IPv6) - Disabled
-- Transmit Buffers - 1024
+- Transmit Buffers - 4096 ( if yours doesnt go that high put 2048 if you cant put that use 1024) i typically match this with the other buffer
 - UDP Checksum Offload (IPv4) - Disabled
 - UDP Checksum Offload (IPv6) - Disabled
 - Wake on Magic Packet - Disabled
@@ -105,14 +106,14 @@ Now right click on your Network adapter that you will be using, be it  Wifi or l
 - Disable ``NetBIOS over TCP/IP`` in ``Internet Protocol Version 4 (TCP/IPv4) -> Properties -> General -> Advanced -> WINS`` to [prevent unnecessary system listening](https://github.com/djdallmann/GamingPCSetup/blob/master/CONTENT/DOCS/NETWORK/README.md) for all network adapters
 
 
-## Geforce
+## Nvida App
 
-If you installed the driver normally or went via the NVcleaninstall route and manually installed geforce
+In the Nvidia app disable Game filters and phot mode in the settings tab
+In the notifications tab disable both driver and rewards tick boxes 
+in about section untick everything you can
 
-You will want to disable these 3 in the Alt + z menu
-- broadcast live
-- Highlights
-- Photo mode / game filter ( if you use this you can keep it on if not turn it off)
+Then press alt+z and in the ui go into highlights disable it
+
 
 
 ## Nvidia inspector 
@@ -168,6 +169,8 @@ then at the top disable this
 ![image](https://github.com/Tungrad/BDO/assets/126987283/fdb01a96-63e4-4b95-940e-358ed246b0ec)
 
 click okay and close the application you're done with this 
+
+You can also just import the ultimate powerplan in the CTT tool and use that 
 
 
 # Group policy edit cope
