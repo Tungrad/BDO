@@ -141,7 +141,7 @@ Disable it
 For some games Having this Off improves FPS and performance like in cs go this was the case for me while in bdo the performance was the same so you should test this on your own 
 
 
-![image](https://github.com/Tungrad/BDO/assets/126987283/fc5c30ca-9b63-4c15-ae2a-ea4bcbbf56a7)
+<img width="732" height="299" alt="image" src="https://github.com/user-attachments/assets/c6b7bf22-15db-47d3-b5c3-1a123ca41c91" />
 
 
 ![image](https://github.com/Tungrad/BDO/assets/126987283/ac4df746-629f-45c9-98a4-40e09621eadc)
