@@ -33,34 +33,13 @@ Download and install the [.NET 4.8 runtimes](https://dotnet.microsoft.com/en-us/
 Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/download/details.aspx?id=8109).
 
 
-## Remove Bloatware Natively
 
-go to your installed apps and uninstall all the useless shit you do not use or need.
-If you used the autounattended method when reinstalling windows you wont have to deal with this step. 
-
-
-## Configure Memory Management Settings (Windows 8+)
-
-If you are on an old system you may see some benefit as alaways i would test with this being off or on and see which gives you the best performance 
-
-- Open PowerShell as admin and enter the command below
-
-```powershell
-    Disable-MMAgent -MemoryCompression
- ```
- ```powershell
-    Disable-MMAgent -ApplicationPreLaunch
-  ```
-
-- Paste the next 2 in CMD
+- add to regfile
   
  ```powershell
     reg add "HKLM\SYSTEM\CurrentControlSet\Services\SysMain" /v "Start" /t REG_DWORD /d "4" /f
   ```
- ```powershell
-    reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters" /v EnablePrefetcher /t REG_DWORD /d 0 /f
 
-  ```
 
 ## Configure Audio Settings
 - Press Win + R to open the Run Command dialog box.
