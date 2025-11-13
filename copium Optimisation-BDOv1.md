@@ -294,12 +294,9 @@ Now call me crazy but this may fix stuttering issues or general BDO issues, if y
 
 
 # Regedit tweaks
-this is the reg file i always apply on my windows up to you if you want to also you can open the file and check it yourself and only apply certain ones up to you
+this is the reg file i always apply on my windows up to you if you want to also you can open the file and check it yourself and only apply certain ones up to you.
 
-
-Download it [here](https://www.dropbox.com/scl/fi/wranqdshjct7phn4ib9oh/XDDD.reg?rlkey=fb4munkn22jihtasfat3i8f6z&st=hcp4h5u2&dl=0)
-
-You can also run this one also if you so wish [reg](https://www.dropbox.com/scl/fi/inufb4tsw4co4lmmp3j5a/HOHOHO.reg?rlkey=nwxtbpvi47rha0lri1v0ha8ne&st=ocix4uuw&dl=0)
+you can download it [here](https://www.dropbox.com/scl/fi/inufb4tsw4co4lmmp3j5a/basic-reg-tweaks.reg?rlkey=nwxtbpvi47rha0lri1v0ha8ne&st=k96mena3&dl=0)
 
 
 ### CTT Tool
