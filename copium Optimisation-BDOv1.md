@@ -13,11 +13,11 @@ this is about 95% of what i do there are some other tweaks but its way to trihar
 # BIOS SETTINGS I DISABLED
 if you wish to blindly follow should be fine but i would suggest you look into each one and see for urself if you should disable it 
 
--TSME = Disabled
--iGPU = Disabled
--PSS Support = Disabled
--PSPP = Disabled
--Virtualization(SVM Mode) = Disabled if you use VMS don't do this
+- TSME = Disabled
+- iGPU = Disabled
+- PSS Support = Disabled
+- PSPP = Disabled
+- Virtualization(SVM Mode) = Disabled if you use VMS don't do this
 - Global c-state control = Disabled
 - SVM Disabled
 - Disable PCI Express Power Management (ACP CLock Gating) = Disabled
