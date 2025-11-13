@@ -17,6 +17,8 @@ this is about 95% of what i do there are some other tweaks but its way to trihar
 best way to setup your windows when you reinstall using autounattend.xml to do so. 
 you can watch this [general](https://youtu.be/VapEEf4k7Eo?si=WFdYwriim6xHC0LU) video or this [one](https://youtu.be/pDEZDD_gEbo?si=rk-oLK8aZwzcxhYX) 
 
+there is another new video [here](https://youtu.be/lrq3ph3xi50?si=8Wm3T5e0jjH6PT0C) and his other video [here](https://youtu.be/sCd1TI6AbOI?si=u-AsgHxiQv5zRZ_9)
+
 
 ## Install Visual C++ Redistributable Runtimes
 
