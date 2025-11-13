@@ -1,5 +1,5 @@
 
-# Updating for 2025
+# UPDATED for 2026
 
 i will clean up the guide a bit and remove stuff everyone knows to do etc.
 
