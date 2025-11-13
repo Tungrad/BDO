@@ -1,8 +1,6 @@
 
 # UPDATED for 2026
-
-i will clean up the guide a bit and remove stuff everyone knows to do etc.
-
+---
 # General windows / BDO setup -  
 
 General PC setup and tweaks for the avg BDO gamer, along with BDO setup i personally do, will cover a basic general setup and will go more in depth down the rabbit hole of trying to optimise  your PC. 
@@ -10,6 +8,21 @@ General PC setup and tweaks for the avg BDO gamer, along with BDO setup i person
 Taken info from many resources and put them together in this guide for the avg bdo gamer / casual trying to improve their experience.
 
 this is about 95% of what i do there are some other tweaks but its way to trihard for the avg person and i cba explaining how to do them if you wanna know what else i do ask me in discord ig
+
+
+# BIOS SETTINGS I DISABLED
+if you wish to blindly follow should be fine but i would suggest you look into each one and see for urself if you should disable it 
+
+-TSME = Disabled
+-iGPU = Disabled
+-PSS Support = Disabled
+-PSPP = Disabled
+-Virtualization(SVM Mode) = Disabled if you use VMS don't do this
+- Global c-state control = Disabled
+- SVM Disabled
+- Disable PCI Express Power Management (ACP CLock Gating) = Disabled
+- Fast boot disabled
+- Latency Under Load (msi latency killer etc shit like this disable) = Disabled
 
 
 ## Windows installation updated 2025
@@ -434,6 +447,8 @@ if you really really really want to try optimise your system further you can loo
 [Basic guide](https://github.com/luke-beep/guide-to-optimizing-windows/tree/main) [Advanced Guide](https://github.com/amitxv/PC-Tuning/tree/main)
 
 [1st video](https://www.youtube.com/watch?v=WGDRL87tg5s) [2nd video](https://youtu.be/sbXzM60ad8I?t=12)
+---
+
 
 
 # END
