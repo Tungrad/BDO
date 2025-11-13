@@ -34,7 +34,7 @@ Download and install the [DirectX runtimes](https://www.microsoft.com/en-gb/down
 
 
 
-- add to regfile
+- open power shell as admin and paste this command and hit enter 
   
  ```powershell
     reg add "HKLM\SYSTEM\CurrentControlSet\Services\SysMain" /v "Start" /t REG_DWORD /d "4" /f
