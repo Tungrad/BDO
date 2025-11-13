@@ -141,7 +141,10 @@ Disable it
 # Game Mode
 
 For some games Having this Off improves FPS and others having it on improves FPS, Generally having it on will be the better option
+
 <img width="732" height="299" alt="image" src="https://github.com/user-attachments/assets/c6b7bf22-15db-47d3-b5c3-1a123ca41c91" />
+
+
 <img width="891" height="180" alt="image" src="https://github.com/user-attachments/assets/bccfd131-defd-490e-8c6e-0203338cadd7" />
 
 
