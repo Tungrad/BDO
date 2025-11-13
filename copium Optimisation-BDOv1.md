@@ -120,6 +120,12 @@ Now right click on your Network adapter that you will be using, be it  Wifi or l
 - Disable ``NetBIOS over TCP/IP`` in ``Internet Protocol Version 4 (TCP/IPv4) -> Properties -> General -> Advanced -> WINS`` to [prevent unnecessary system listening](https://github.com/djdallmann/GamingPCSetup/blob/master/CONTENT/DOCS/NETWORK/README.md) for all network adapters
 
 
+## GPU Drivers
+
+Use DDU and clean uninstall your GPU drivers and clean install a fresh driver AMD users apparently u should always use the latest 99% of the time
+
+For Nvidia ppl the best driver for me that's new enough to support bf6 and is the best performing amoung all my games is 581.42
+
 ## Nvida App
 
 In the Nvidia app disable Game filters and phot mode in the settings tab
@@ -128,19 +134,13 @@ in about section untick everything you can
 
 Then press alt+z and in the ui go into highlights disable it
 
-
-
 ## Nvidia inspector 
-(currently reworking profiles) but base n tweaked should still be fine
 
-Gonna be making a zip file with the different inspector profiles n shit u can fuck around with these i have uploaded
+[Uploading 5 Nvidia Settings.ps1…]()
 
-Download [inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
-This is standard [Base normal profile](https://cdn.discordapp.com/attachments/200251993766363136/1133172575997014068/Base_Profile.nip) that should be fine for everyone and this is my [Tweaked Base](https://cdn.discordapp.com/attachments/200251993766363136/1133172576512917734/slight_tweak.nip) you dont need to make any changes to bdo profile specifically unless you want to go potato mode the general tweaks are set into the base profile, low latency mode and threaded you must experiment yourself with it on or off, low / ultra and see whats best for your system.
 
-If you have your own base profile you prefer, here are 2 of the bdo profiles i switch between [1st BDO Profile](https://cdn.discordapp.com/attachments/200251993766363136/1163455037423485009/BDO1.nip?ex=653fa2f0&is=652d2df0&hm=1b278fa94cb401ca6a1158aac5ec777c4814f70bee2e8cd82b87f57234097abe&) [2nd BDO Profile](https://cdn.discordapp.com/attachments/200251993766363136/1163455037050200184/BDO2.nip?ex=653fa2f0&is=652d2df0&hm=81886a577f5992c81b54c0fdf88801d298f52ef85e77a38e82dca82f1748c031&)
 
-If you playing BDO play around with this setting Off, On, Ultra and see what feels the best.![image](https://github.com/Tungrad/BDO/assets/126987283/f51a5a43-8c12-47fa-950d-20f06d434ce4) 
+
 
 ## Disable  Core Isolation
 Search for Core Isolation in windows search 
