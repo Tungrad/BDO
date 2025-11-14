@@ -18,7 +18,7 @@ if you wish to blindly follow should be fine but i would suggest you look into e
 - PSS Support = Disabled
 - PSPP = Disabled
 - Virtualization(SVM Mode) = Disabled if you use VMS don't do this
-- Global c-state control = Disabled
+- Global c-state control = Enabled if you want some power saving while your pc is idling n shit or if u want ur cores to always be boosting up when nothing is going on disable it
 - SVM Disabled
 - Disable PCI Express Power Management (ACP CLock Gating) = Disabled
 - Fast boot disabled
